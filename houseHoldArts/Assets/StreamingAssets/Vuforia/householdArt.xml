@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="introWoodupdate" size="1.000000 0.923636" />
+    <ImageTarget name="introWood" size="1.000000 0.888500" />
+    <ImageTarget name="kitchenWood" size="1.000000 1.262222" />
+    <ImageTarget name="livingroomWoodNew" size="1.000000 1.385817" />
+    <ImageTarget name="nurserywood" size="1.000000 1.357778" />
+    <ImageTarget name="postcards_intro-01" size="1.000000 1.545455" />
+    <ImageTarget name="Bathroom" size="1.000000 1.844011" />
+    <ImageTarget name="bedroomWood" size="1.000000 1.725159" />
+    <ImageTarget name="nurseryScene" size="1.000000 1.610650" />
+    <ImageTarget name="bathroomScene" size="1.000000 1.996651" />
+    <ImageTarget name="bedroomScene" size="1.000000 1.422870" />
+    <ImageTarget name="kitchenScene" size="1.000000 1.181818" />
+    <ImageTarget name="livinRoomScene" size="1.000000 1.630137" />
+  </Tracking>
+</QCARConfig>

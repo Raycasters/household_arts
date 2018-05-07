@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: f46c60c211be84d749407f3845a6cefb
+timeCreated: 1516219949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: __MO_RUOTE_1
+    100002: __MO_RUOTE_1 1
+    100004: __MO_RUOTE_1 2
+    100006: __MO_RUOTE_1 3
+    100008: CASSETTONE4
+    100010: CASSETTONE_2
+    100012: CASSETTONE_4
+    100014: CONTENITORE_3_CASELLE_1
+    100016: cuento_1
+    100018: ESPOSITORE_PORTA_LIBRI_6_CASELLE_1
+    100020: Galaxia
+    100022: group_0
+    100024: group_1
+    100026: group_10
+    100028: group_11
+    100030: group_12
+    100032: group_13
+    100034: group_14
+    100036: group_15
+    100038: group_16
+    100040: group_17
+    100042: group_18
+    100044: group_19
+    100046: group_2
+    100048: group_20
+    100050: group_21
+    100052: group_22
+    100054: group_23
+    100056: group_24
+    100058: group_25
+    100060: group_26
+    100062: group_27
+    100064: group_28
+    100066: group_29
+    100068: group_3
+    100070: group_30
+    100072: group_31
+    100074: group_32
+    100076: group_33
+    100078: group_34
+    100080: group_35
+    100082: group_36
+    100084: group_37
+    100086: group_38
+    100088: group_39
+    100090: group_4
+    100092: group_40
+    100094: group_41
+    100096: group_42
+    100098: group_43
+    100100: group_44
+    100102: group_45
+    100104: group_46
+    100106: group_47
+    100108: group_48
+    100110: group_49
+    100112: group_5
+    100114: group_6
+    100116: group_7
+    100118: group_8
+    100120: group_9
+    100122: Gruppo_13
+    100124: Gruppo_13 1
+    100126: Gruppo_13 2
+    100128: Gruppo_13 3
+    100130: Gruppo_14
+    100132: Gruppo_14 1
+    100134: Gruppo_14 2
+    100136: Gruppo_14 3
+    100138: Gruppo_15
+    100140: Gruppo_15 1
+    100142: Gruppo_15 2
+    100144: Gruppo_15 3
+    100146: Gruppo_16
+    100148: Gruppo_16 1
+    100150: Gruppo_16 2
+    100152: Gruppo_16 3
+    100154: Gruppo_17
+    100156: Gruppo_17 1
+    100158: Gruppo_17 2
+    100160: Gruppo_17 3
+    100162: Gruppo_18
+    100164: Gruppo_18 1
+    100166: Gruppo_18 2
+    100168: Gruppo_18 3
+    100170: Gruppo_19
+    100172: Gruppo_19 1
+    100174: Gruppo_19 2
+    100176: Gruppo_19 3
+    100178: ID1004
+    100180: ID1010
+    100182: ID1016
+    100184: ID102
+    100186: ID1030
+    100188: ID1038
+    100190: ID1046
+    100192: ID1054
+    100194: ID1060
+    100196: ID1066
+    100198: ID1072
+    100200: ID1078
+    100202: ID1084
+    100204: ID1090
+    100206: ID1104
+    100208: ID1132
+    100210: ID1145
+    100212: ID1170
+    100214: ID1193
+    100216: ID1193 1
+    100218: ID1206
+    100220: ID1206 1
+    100222: ID1227
+    100224: ID1227 1
+    100226: ID1240
+    100228: ID1240 1
+    100230: ID1263
+    100232: ID1263 1
+    100234: ID1276
+    100236: ID1276 1
+    100238: ID1307
+    100240: ID1315
+    100242: ID1321
+    100244: ID1334
+    100246: ID1347
+    100248: ID1355
+    100250: ID1359
+    100252: ID1400
+    100254: ID1408
+    100256: ID1414
+    100258: ID1420
+    100260: ID1428
+    100262: ID1436
+    100264: ID1442
+    100266: ID153
+    100268: ID196
+    100270: ID21
+    100272: ID239
+    100274: ID252
+    100276: ID290
+    100278: ID303
+    100280: ID31
+    100282: ID341
+    100284: ID354
+    100286: ID37
+    100288: ID392
+    100290: ID405
+    100292: ID440
+    100294: ID440 1
+    100296: ID440 2
+    100298: ID440 3
+    100300: ID51
+    100302: ID534
+    100304: ID538
+    100306: ID542
+    100308: ID554
+    100310: ID558
+    100312: ID577
+    100314: ID594
+    100316: ID612
+    100318: ID620
+    100320: ID628
+    100322: ID634
+    100324: ID642
+    100326: ID648
+    100328: ID656
+    100330: ID662
+    100332: ID670
+    100334: ID678
+    100336: ID68
+    100338: ID699
+    100340: ID705
+    100342: ID711
+    100344: ID717
+    100346: ID723
+    100348: ID729
+    100350: ID735
+    100352: ID741
+    100354: ID747
+    100356: ID753
+    100358: ID812
+    100360: ID830
+    100362: ID843
+    100364: ID85
+    100366: ID878
+    100368: ID884
+    100370: ID890
+    100372: ID896
+    100374: ID902
+    100376: ID908
+    100378: ID914
+    100380: ID920
+    100382: ID926
+    100384: ID932
+    100386: ID938
+    100388: ID944
+    100390: ID950
+    100392: ID956
+    100394: ID962
+    100396: ID968
+    100398: ID974
+    100400: ID980
+    100402: ID986
+    100404: ID992
+    100406: ID998
+    100408: instance_0
+    100410: instance_1
+    100412: instance_10
+    100414: instance_11
+    100416: instance_12
+    100418: instance_13
+    100420: instance_14
+    100422: instance_15
+    100424: instance_16
+    100426: instance_17
+    100428: instance_18
+    100430: instance_19
+    100432: instance_2
+    100434: instance_20
+    100436: instance_21
+    100438: instance_22
+    100440: instance_23
+    100442: instance_24
+    100444: instance_25
+    100446: instance_26
+    100448: instance_27
+    100450: instance_28
+    100452: instance_3
+    100454: instance_4
+    100456: instance_5
+    100458: instance_6
+    100460: instance_7
+    100462: instance_8
+    100464: instance_9
+    100466: libro
+    100468: Livro_Quimica_1
+    100470: Livro_Quimica_1 1
+    100472: Livro_Quimica_1_1
+    100474: Livro_Quimica_3
+    100476: Livro_Quimica_3 1
+    100478: Livro_Quimica_3_1
+    100480: Livro_Quimica_3_2
+    100482: Livro_Quimica_4
+    100484: Livro_Quimica_4 1
+    100486: Livros_de_Quimica
+    100488: Los_Miserables__
+    100490: //RootNode
+    100492: sedia_bimbi
+    100494: sedia_bimbi_2
+    100496: sedia_bimbi_3
+    100498: Sin
+    100500: ske195
+    100502: skp_camera_Last_Saved_SketchUp_View
+    100504: TAVOLO_BABY
+    400000: __MO_RUOTE_1
+    400002: __MO_RUOTE_1 1
+    400004: __MO_RUOTE_1 2
+    400006: __MO_RUOTE_1 3
+    400008: CASSETTONE4
+    400010: CASSETTONE_2
+    400012: CASSETTONE_4
+    400014: CONTENITORE_3_CASELLE_1
+    400016: cuento_1
+    400018: ESPOSITORE_PORTA_LIBRI_6_CASELLE_1
+    400020: Galaxia
+    400022: group_0
+    400024: group_1
+    400026: group_10
+    400028: group_11
+    400030: group_12
+    400032: group_13
+    400034: group_14
+    400036: group_15
+    400038: group_16
+    400040: group_17
+    400042: group_18
+    400044: group_19
+    400046: group_2
+    400048: group_20
+    400050: group_21
+    400052: group_22
+    400054: group_23
+    400056: group_24
+    400058: group_25
+    400060: group_26
+    400062: group_27
+    400064: group_28
+    400066: group_29
+    400068: group_3
+    400070: group_30
+    400072: group_31
+    400074: group_32
+    400076: group_33
+    400078: group_34
+    400080: group_35
+    400082: group_36
+    400084: group_37
+    400086: group_38
+    400088: group_39
+    400090: group_4
+    400092: group_40
+    400094: group_41
+    400096: group_42
+    400098: group_43
+    400100: group_44
+    400102: group_45
+    400104: group_46
+    400106: group_47
+    400108: group_48
+    400110: group_49
+    400112: group_5
+    400114: group_6
+    400116: group_7
+    400118: group_8
+    400120: group_9
+    400122: Gruppo_13
+    400124: Gruppo_13 1
+    400126: Gruppo_13 2
+    400128: Gruppo_13 3
+    400130: Gruppo_14
+    400132: Gruppo_14 1
+    400134: Gruppo_14 2
+    400136: Gruppo_14 3
+    400138: Gruppo_15
+    400140: Gruppo_15 1
+    400142: Gruppo_15 2
+    400144: Gruppo_15 3
+    400146: Gruppo_16
+    400148: Gruppo_16 1
+    400150: Gruppo_16 2
+    400152: Gruppo_16 3
+    400154: Gruppo_17
+    400156: Gruppo_17 1
+    400158: Gruppo_17 2
+    400160: Gruppo_17 3
+    400162: Gruppo_18
+    400164: Gruppo_18 1
+    400166: Gruppo_18 2
+    400168: Gruppo_18 3
+    400170: Gruppo_19
+    400172: Gruppo_19 1
+    400174: Gruppo_19 2
+    400176: Gruppo_19 3
+    400178: ID1004
+    400180: ID1010
+    400182: ID1016
+    400184: ID102
+    400186: ID1030
+    400188: ID1038
+    400190: ID1046
+    400192: ID1054
+    400194: ID1060
+    400196: ID1066
+    400198: ID1072
+    400200: ID1078
+    400202: ID1084
+    400204: ID1090
+    400206: ID1104
+    400208: ID1132
+    400210: ID1145
+    400212: ID1170
+    400214: ID1193
+    400216: ID1193 1
+    400218: ID1206
+    400220: ID1206 1
+    400222: ID1227
+    400224: ID1227 1
+    400226: ID1240
+    400228: ID1240 1
+    400230: ID1263
+    400232: ID1263 1
+    400234: ID1276
+    400236: ID1276 1
+    400238: ID1307
+    400240: ID1315
+    400242: ID1321
+    400244: ID1334
+    400246: ID1347
+    400248: ID1355
+    400250: ID1359
+    400252: ID1400
+    400254: ID1408
+    400256: ID1414
+    400258: ID1420
+    400260: ID1428
+    400262: ID1436
+    400264: ID1442
+    400266: ID153
+    400268: ID196
+    400270: ID21
+    400272: ID239
+    400274: ID252
+    400276: ID290
+    400278: ID303
+    400280: ID31
+    400282: ID341
+    400284: ID354
+    400286: ID37
+    400288: ID392
+    400290: ID405
+    400292: ID440
+    400294: ID440 1
+    400296: ID440 2
+    400298: ID440 3
+    400300: ID51
+    400302: ID534
+    400304: ID538
+    400306: ID542
+    400308: ID554
+    400310: ID558
+    400312: ID577
+    400314: ID594
+    400316: ID612
+    400318: ID620
+    400320: ID628
+    400322: ID634
+    400324: ID642
+    400326: ID648
+    400328: ID656
+    400330: ID662
+    400332: ID670
+    400334: ID678
+    400336: ID68
+    400338: ID699
+    400340: ID705
+    400342: ID711
+    400344: ID717
+    400346: ID723
+    400348: ID729
+    400350: ID735
+    400352: ID741
+    400354: ID747
+    400356: ID753
+    400358: ID812
+    400360: ID830
+    400362: ID843
+    400364: ID85
+    400366: ID878
+    400368: ID884
+    400370: ID890
+    400372: ID896
+    400374: ID902
+    400376: ID908
+    400378: ID914
+    400380: ID920
+    400382: ID926
+    400384: ID932
+    400386: ID938
+    400388: ID944
+    400390: ID950
+    400392: ID956
+    400394: ID962
+    400396: ID968
+    400398: ID974
+    400400: ID980
+    400402: ID986
+    400404: ID992
+    400406: ID998
+    400408: instance_0
+    400410: instance_1
+    400412: instance_10
+    400414: instance_11
+    400416: instance_12
+    400418: instance_13
+    400420: instance_14
+    400422: instance_15
+    400424: instance_16
+    400426: instance_17
+    400428: instance_18
+    400430: instance_19
+    400432: instance_2
+    400434: instance_20
+    400436: instance_21
+    400438: instance_22
+    400440: instance_23
+    400442: instance_24
+    400444: instance_25
+    400446: instance_26
+    400448: instance_27
+    400450: instance_28
+    400452: instance_3
+    400454: instance_4
+    400456: instance_5
+    400458: instance_6
+    400460: instance_7
+    400462: instance_8
+    400464: instance_9
+    400466: libro
+    400468: Livro_Quimica_1
+    400470: Livro_Quimica_1 1
+    400472: Livro_Quimica_1_1
+    400474: Livro_Quimica_3
+    400476: Livro_Quimica_3 1
+    400478: Livro_Quimica_3_1
+    400480: Livro_Quimica_3_2
+    400482: Livro_Quimica_4
+    400484: Livro_Quimica_4 1
+    400486: Livros_de_Quimica
+    400488: Los_Miserables__
+    400490: //RootNode
+    400492: sedia_bimbi
+    400494: sedia_bimbi_2
+    400496: sedia_bimbi_3
+    400498: Sin
+    400500: ske195
+    400502: skp_camera_Last_Saved_SketchUp_View
+    400504: TAVOLO_BABY
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material_42
+    2100002: __White_
+    2100004: material_42_0
+    2100006: __Coral_
+    2100008: __Gold_
+    2100010: __CorrogateShiny__copia4
+    2100012: Metal_Panel3
+    2100014: _0004_HotPink
+    2100016: galaxias_distorsionadas1
+    2100018: galaxias_distorsionadas1_1
+    2100020: galaxias_distorsionadas1_2
+    2100022: galaxias_distorsionadas1_3
+    2100024: galaxias_distorsionadas1_4
+    2100026: galaxias_distorsionadas1_5
+    2100028: galaxias_distorsionadas1_6
+    2100030: galaxias_distorsionadas1_7
+    2100032: galaxias_distorsionadas1_8
+    2100034: galaxias_distorsionadas1_9
+    2100036: galaxias_distorsionadas1_10
+    2100038: galaxias_distorsionadas1_11
+    2100040: material
+    2100042: galaxias_distorsionadas1_12
+    2100044: galaxias_distorsionadas1_13
+    2100046: galaxias_distorsionadas1_14
+    2100048: _0046_Gold
+    2100050: _0048_PaleGoldenrod
+    2100052: _0021_DarkRed
+    2100054: _0053_Ivory
+    2100056: _0137_Black
+    2100058: la_tigre_e_amici
+    2100060: _89733906a9883d626ac331d8ba182fa3
+    2100062: _89733906a9883d626ac331d8ba182fa3_15
+    2100064: Color_000
+    2100066: animali_opposti1
+    2100068: animali_opposti1_16
+    2100070: Capas_Vol_3_Quali5
+    2100072: Vol_3_Capa_Quali5
+    2100074: Capas_Vol_4_-_Quali5
+    2100076: Vol_4_Capa_Quali5
+    2100078: Vol_1_Capa_Quali5
+    2100080: Capas_Vol_1_Quali5
+    2100082: material_3
+    2100084: material_6
+    2100086: material_4
+    2300000: CASSETTONE4
+    2300002: CASSETTONE_2
+    2300004: CASSETTONE_4
+    2300006: cuento_1
+    2300008: Galaxia
+    2300010: group_1
+    2300012: group_10
+    2300014: group_11
+    2300016: group_12
+    2300018: group_14
+    2300020: group_15
+    2300022: group_16
+    2300024: group_17
+    2300026: group_19
+    2300028: group_2
+    2300030: group_20
+    2300032: group_21
+    2300034: group_22
+    2300036: group_24
+    2300038: group_25
+    2300040: group_26
+    2300042: group_27
+    2300044: group_29
+    2300046: group_30
+    2300048: group_31
+    2300050: group_32
+    2300052: group_34
+    2300054: group_35
+    2300056: group_36
+    2300058: group_37
+    2300060: group_4
+    2300062: group_41
+    2300064: group_42
+    2300066: group_43
+    2300068: group_44
+    2300070: group_45
+    2300072: group_46
+    2300074: group_47
+    2300076: group_48
+    2300078: group_49
+    2300080: group_5
+    2300082: group_6
+    2300084: group_7
+    2300086: group_9
+    2300088: Gruppo_13
+    2300090: Gruppo_13 1
+    2300092: Gruppo_13 2
+    2300094: Gruppo_13 3
+    2300096: Gruppo_14
+    2300098: Gruppo_14 1
+    2300100: Gruppo_14 2
+    2300102: Gruppo_14 3
+    2300104: Gruppo_15
+    2300106: Gruppo_15 1
+    2300108: Gruppo_15 2
+    2300110: Gruppo_15 3
+    2300112: Gruppo_16
+    2300114: Gruppo_16 1
+    2300116: Gruppo_16 2
+    2300118: Gruppo_16 3
+    2300120: Gruppo_17
+    2300122: Gruppo_17 1
+    2300124: Gruppo_17 2
+    2300126: Gruppo_17 3
+    2300128: Gruppo_18
+    2300130: Gruppo_18 1
+    2300132: Gruppo_18 2
+    2300134: Gruppo_18 3
+    2300136: Gruppo_19
+    2300138: Gruppo_19 1
+    2300140: Gruppo_19 2
+    2300142: Gruppo_19 3
+    2300144: ID1004
+    2300146: ID1010
+    2300148: ID1016
+    2300150: ID102
+    2300152: ID1030
+    2300154: ID1038
+    2300156: ID1046
+    2300158: ID1054
+    2300160: ID1060
+    2300162: ID1066
+    2300164: ID1072
+    2300166: ID1078
+    2300168: ID1084
+    2300170: ID1104
+    2300172: ID1132
+    2300174: ID1145
+    2300176: ID1170
+    2300178: ID1193
+    2300180: ID1193 1
+    2300182: ID1206
+    2300184: ID1206 1
+    2300186: ID1227
+    2300188: ID1227 1
+    2300190: ID1240
+    2300192: ID1240 1
+    2300194: ID1263
+    2300196: ID1263 1
+    2300198: ID1276
+    2300200: ID1276 1
+    2300202: ID1307
+    2300204: ID1315
+    2300206: ID1321
+    2300208: ID1334
+    2300210: ID1347
+    2300212: ID1400
+    2300214: ID1408
+    2300216: ID1414
+    2300218: ID1420
+    2300220: ID1428
+    2300222: ID21
+    2300224: ID252
+    2300226: ID303
+    2300228: ID354
+    2300230: ID405
+    2300232: ID51
+    2300234: ID577
+    2300236: ID594
+    2300238: ID612
+    2300240: ID620
+    2300242: ID628
+    2300244: ID634
+    2300246: ID642
+    2300248: ID648
+    2300250: ID656
+    2300252: ID662
+    2300254: ID670
+    2300256: ID68
+    2300258: ID699
+    2300260: ID705
+    2300262: ID711
+    2300264: ID717
+    2300266: ID723
+    2300268: ID729
+    2300270: ID735
+    2300272: ID741
+    2300274: ID747
+    2300276: ID753
+    2300278: ID812
+    2300280: ID830
+    2300282: ID843
+    2300284: ID85
+    2300286: ID878
+    2300288: ID884
+    2300290: ID890
+    2300292: ID896
+    2300294: ID902
+    2300296: ID908
+    2300298: ID914
+    2300300: ID920
+    2300302: ID926
+    2300304: ID932
+    2300306: ID938
+    2300308: ID944
+    2300310: ID950
+    2300312: ID956
+    2300314: ID962
+    2300316: ID968
+    2300318: ID974
+    2300320: ID980
+    2300322: ID986
+    2300324: ID992
+    2300326: ID998
+    2300328: libro
+    2300330: Livro_Quimica_1
+    2300332: Livro_Quimica_1 1
+    2300334: Livro_Quimica_1_1
+    2300336: Livro_Quimica_3
+    2300338: Livro_Quimica_3 1
+    2300340: Livro_Quimica_3_1
+    2300342: Livro_Quimica_3_2
+    2300344: Livro_Quimica_4
+    2300346: Livro_Quimica_4 1
+    2300348: Los_Miserables__
+    2300350: Sin
+    3300000: CASSETTONE4
+    3300002: CASSETTONE_2
+    3300004: CASSETTONE_4
+    3300006: cuento_1
+    3300008: Galaxia
+    3300010: group_1
+    3300012: group_10
+    3300014: group_11
+    3300016: group_12
+    3300018: group_14
+    3300020: group_15
+    3300022: group_16
+    3300024: group_17
+    3300026: group_19
+    3300028: group_2
+    3300030: group_20
+    3300032: group_21
+    3300034: group_22
+    3300036: group_24
+    3300038: group_25
+    3300040: group_26
+    3300042: group_27
+    3300044: group_29
+    3300046: group_30
+    3300048: group_31
+    3300050: group_32
+    3300052: group_34
+    3300054: group_35
+    3300056: group_36
+    3300058: group_37
+    3300060: group_4
+    3300062: group_41
+    3300064: group_42
+    3300066: group_43
+    3300068: group_44
+    3300070: group_45
+    3300072: group_46
+    3300074: group_47
+    3300076: group_48
+    3300078: group_49
+    3300080: group_5
+    3300082: group_6
+    3300084: group_7
+    3300086: group_9
+    3300088: Gruppo_13
+    3300090: Gruppo_13 1
+    3300092: Gruppo_13 2
+    3300094: Gruppo_13 3
+    3300096: Gruppo_14
+    3300098: Gruppo_14 1
+    3300100: Gruppo_14 2
+    3300102: Gruppo_14 3
+    3300104: Gruppo_15
+    3300106: Gruppo_15 1
+    3300108: Gruppo_15 2
+    3300110: Gruppo_15 3
+    3300112: Gruppo_16
+    3300114: Gruppo_16 1
+    3300116: Gruppo_16 2
+    3300118: Gruppo_16 3
+    3300120: Gruppo_17
+    3300122: Gruppo_17 1
+    3300124: Gruppo_17 2
+    3300126: Gruppo_17 3
+    3300128: Gruppo_18
+    3300130: Gruppo_18 1
+    3300132: Gruppo_18 2
+    3300134: Gruppo_18 3
+    3300136: Gruppo_19
+    3300138: Gruppo_19 1
+    3300140: Gruppo_19 2
+    3300142: Gruppo_19 3
+    3300144: ID1004
+    3300146: ID1010
+    3300148: ID1016
+    3300150: ID102
+    3300152: ID1030
+    3300154: ID1038
+    3300156: ID1046
+    3300158: ID1054
+    3300160: ID1060
+    3300162: ID1066
+    3300164: ID1072
+    3300166: ID1078
+    3300168: ID1084
+    3300170: ID1104
+    3300172: ID1132
+    3300174: ID1145
+    3300176: ID1170
+    3300178: ID1193
+    3300180: ID1193 1
+    3300182: ID1206
+    3300184: ID1206 1
+    3300186: ID1227
+    3300188: ID1227 1
+    3300190: ID1240
+    3300192: ID1240 1
+    3300194: ID1263
+    3300196: ID1263 1
+    3300198: ID1276
+    3300200: ID1276 1
+    3300202: ID1307
+    3300204: ID1315
+    3300206: ID1321
+    3300208: ID1334
+    3300210: ID1347
+    3300212: ID1400
+    3300214: ID1408
+    3300216: ID1414
+    3300218: ID1420
+    3300220: ID1428
+    3300222: ID21
+    3300224: ID252
+    3300226: ID303
+    3300228: ID354
+    3300230: ID405
+    3300232: ID51
+    3300234: ID577
+    3300236: ID594
+    3300238: ID612
+    3300240: ID620
+    3300242: ID628
+    3300244: ID634
+    3300246: ID642
+    3300248: ID648
+    3300250: ID656
+    3300252: ID662
+    3300254: ID670
+    3300256: ID68
+    3300258: ID699
+    3300260: ID705
+    3300262: ID711
+    3300264: ID717
+    3300266: ID723
+    3300268: ID729
+    3300270: ID735
+    3300272: ID741
+    3300274: ID747
+    3300276: ID753
+    3300278: ID812
+    3300280: ID830
+    3300282: ID843
+    3300284: ID85
+    3300286: ID878
+    3300288: ID884
+    3300290: ID890
+    3300292: ID896
+    3300294: ID902
+    3300296: ID908
+    3300298: ID914
+    3300300: ID920
+    3300302: ID926
+    3300304: ID932
+    3300306: ID938
+    3300308: ID944
+    3300310: ID950
+    3300312: ID956
+    3300314: ID962
+    3300316: ID968
+    3300318: ID974
+    3300320: ID980
+    3300322: ID986
+    3300324: ID992
+    3300326: ID998
+    3300328: libro
+    3300330: Livro_Quimica_1
+    3300332: Livro_Quimica_1 1
+    3300334: Livro_Quimica_1_1
+    3300336: Livro_Quimica_3
+    3300338: Livro_Quimica_3 1
+    3300340: Livro_Quimica_3_1
+    3300342: Livro_Quimica_3_2
+    3300344: Livro_Quimica_4
+    3300346: Livro_Quimica_4 1
+    3300348: Los_Miserables__
+    3300350: Sin
+    4300000: group_1
+    4300002: group_2
+    4300004: ID21
+    4300006: group_4
+    4300008: ID51
+    4300010: group_5
+    4300012: ID68
+    4300014: group_6
+    4300016: ID85
+    4300018: group_7
+    4300020: ID102
+    4300022: group_9
+    4300024: group_10
+    4300026: group_11
+    4300028: group_12
+    4300030: group_14
+    4300032: group_15
+    4300034: group_16
+    4300036: group_17
+    4300038: group_19
+    4300040: group_20
+    4300042: group_21
+    4300044: group_22
+    4300046: ID252
+    4300048: group_24
+    4300050: group_25
+    4300052: group_26
+    4300054: group_27
+    4300056: ID303
+    4300058: group_29
+    4300060: group_30
+    4300062: group_31
+    4300064: group_32
+    4300066: ID354
+    4300068: group_34
+    4300070: group_35
+    4300072: group_36
+    4300074: group_37
+    4300076: ID405
+    4300078: Gruppo_13
+    4300080: Gruppo_14
+    4300082: Gruppo_15
+    4300084: Gruppo_16
+    4300086: Gruppo_17
+    4300088: Gruppo_18
+    4300090: Gruppo_19
+    4300092: group_41
+    4300094: group_42
+    4300096: group_43
+    4300098: CASSETTONE_2
+    4300100: group_44
+    4300102: CASSETTONE_4
+    4300104: ID612
+    4300106: ID620
+    4300108: ID628
+    4300110: ID634
+    4300112: ID642
+    4300114: ID648
+    4300116: ID656
+    4300118: ID662
+    4300120: ID670
+    4300122: group_45
+    4300124: ID577
+    4300126: group_46
+    4300128: ID594
+    4300130: Sin
+    4300132: ID812
+    4300134: ID830
+    4300136: ID843
+    4300138: Galaxia
+    4300140: ID699
+    4300142: ID705
+    4300144: ID711
+    4300146: ID717
+    4300148: ID723
+    4300150: ID729
+    4300152: ID735
+    4300154: ID741
+    4300156: ID747
+    4300158: ID753
+    4300160: libro
+    4300162: ID1030
+    4300164: ID1038
+    4300166: ID1046
+    4300168: ID1054
+    4300170: ID1060
+    4300172: ID1066
+    4300174: ID1072
+    4300176: ID1078
+    4300178: ID1084
+    4300180: Los_Miserables__
+    4300182: ID878
+    4300184: ID884
+    4300186: ID890
+    4300188: ID896
+    4300190: ID902
+    4300192: ID908
+    4300194: ID914
+    4300196: ID920
+    4300198: ID926
+    4300200: ID932
+    4300202: ID938
+    4300204: ID944
+    4300206: ID950
+    4300208: ID956
+    4300210: ID962
+    4300212: ID968
+    4300214: ID974
+    4300216: ID980
+    4300218: ID986
+    4300220: ID992
+    4300222: ID998
+    4300224: ID1004
+    4300226: ID1010
+    4300228: ID1016
+    4300230: Livro_Quimica_3_2
+    4300232: ID1104
+    4300234: Livro_Quimica_1_1
+    4300236: ID1132
+    4300238: ID1145
+    4300240: Livro_Quimica_3_1
+    4300242: ID1170
+    4300244: Livro_Quimica_3
+    4300246: ID1193
+    4300248: ID1206
+    4300250: Livro_Quimica_4
+    4300252: ID1227
+    4300254: ID1240
+    4300256: Livro_Quimica_1
+    4300258: ID1263
+    4300260: ID1276
+    4300262: cuento_1
+    4300264: ID1307
+    4300266: ID1315
+    4300268: ID1321
+    4300270: ID1334
+    4300272: ID1347
+    4300274: CASSETTONE4
+    4300276: ID1400
+    4300278: ID1408
+    4300280: ID1414
+    4300282: ID1420
+    4300284: ID1428
+    4300286: group_47
+    4300288: group_48
+    4300290: group_49
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

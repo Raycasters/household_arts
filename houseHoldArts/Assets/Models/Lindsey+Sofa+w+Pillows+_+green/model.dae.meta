@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 399d86612a2754a5c81960d480504d62
+timeCreated: 1508976872
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _16in_x_16in_Pillow
+    100002: _16in_x_16in_Pillow 1
+    100004: _16in_x_16in_Pillow 2
+    100006: _16in_x_16in_Pillow 3
+    100008: Component_10
+    100010: Component_4
+    100012: Component_5
+    100014: Component_6
+    100016: Component_7
+    100018: Component_8
+    100020: Component_9
+    100022: group_0
+    100024: ID106
+    100026: ID25
+    100028: ID35
+    100030: ID90
+    100032: instance_0
+    100034: instance_1
+    100036: instance_10
+    100038: instance_11
+    100040: instance_2
+    100042: instance_3
+    100044: instance_4
+    100046: instance_5
+    100048: instance_6
+    100050: instance_7
+    100052: instance_8
+    100054: instance_9
+    100056: //RootNode
+    100058: Pillow_Set_of_5___Small
+    100060: skp_camera_Last_Saved_SketchUp_View
+    400000: _16in_x_16in_Pillow
+    400002: _16in_x_16in_Pillow 1
+    400004: _16in_x_16in_Pillow 2
+    400006: _16in_x_16in_Pillow 3
+    400008: Component_10
+    400010: Component_4
+    400012: Component_5
+    400014: Component_6
+    400016: Component_7
+    400018: Component_8
+    400020: Component_9
+    400022: group_0
+    400024: ID106
+    400026: ID25
+    400028: ID35
+    400030: ID90
+    400032: instance_0
+    400034: instance_1
+    400036: instance_10
+    400038: instance_11
+    400040: instance_2
+    400042: instance_3
+    400044: instance_4
+    400046: instance_5
+    400048: instance_6
+    400050: instance_7
+    400052: instance_8
+    400054: instance_9
+    400056: //RootNode
+    400058: Pillow_Set_of_5___Small
+    400060: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: _16in_x_16in_Pillow
+    2300002: _16in_x_16in_Pillow 1
+    2300004: _16in_x_16in_Pillow 2
+    2300006: _16in_x_16in_Pillow 3
+    2300008: Component_4
+    2300010: Component_5
+    2300012: Component_6
+    2300014: Component_7
+    2300016: Component_8
+    2300018: ID25
+    2300020: ID35
+    3300000: _16in_x_16in_Pillow
+    3300002: _16in_x_16in_Pillow 1
+    3300004: _16in_x_16in_Pillow 2
+    3300006: _16in_x_16in_Pillow 3
+    3300008: Component_4
+    3300010: Component_5
+    3300012: Component_6
+    3300014: Component_7
+    3300016: Component_8
+    3300018: ID25
+    3300020: ID35
+    4300000: Component_6
+    4300002: ID25
+    4300004: ID35
+    4300006: Component_5
+    4300008: Component_4
+    4300010: Component_7
+    4300012: Component_8
+    4300014: _16in_x_16in_Pillow
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Celadon
+    second: {fileID: 2100000, guid: f0c98108db02c42d2ad395ced84f861e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dk_Walnut
+    second: {fileID: 2100000, guid: b326222225d804ec4b3f8f1ce06c28af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Color_000_
+    second: {fileID: 2100000, guid: 6ec8c930bd6cf4a88bbd99872a09df5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __LightGray_
+    second: {fileID: 2100000, guid: 513153b1194bd407aaf3081980c3c624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 678b39204726a447fab8a99f5ef72a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0
+    second: {fileID: 2100000, guid: 8d4c4f8ba233e417dafb8990ba78c6ba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

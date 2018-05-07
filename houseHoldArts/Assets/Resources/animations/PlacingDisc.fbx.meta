@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: a33a46b6e16bb4a29b771b412b4b1ce4
+timeCreated: 1518628241
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: chest
+    100004: discandtable:Chair
+    100006: discandtable:DiningShelf_013
+    100008: discandtable:DiningShelf_014
+    100010: discandtable:DiningShelf_019
+    100012: discandtable:DiningShelf_020
+    100014: discandtable:DiningShelf_021
+    100016: discandtable:DiningShelf_022
+    100018: discandtable:DiningShelf_023
+    100020: discandtable:DiningShelf_024
+    100022: discandtable:DiningShelf_025
+    100024: discandtable:DiningShelf_026
+    100026: discandtable:DiningShelf_027
+    100028: discandtable:DiningShelf_028
+    100030: discandtable:dinnerTable
+    100032: discandtable:group1
+    100034: discandtable:joint1
+    100036: discandtable:joint2
+    100038: discandtable:joint3
+    100040: discandtable:joint4
+    100042: discandtable:joint5
+    100044: discandtable:joint6
+    100046: head
+    100048: hip
+    100050: l_Collar
+    100052: l_finger_1
+    100054: l_finger_1_1
+    100056: l_finger_2
+    100058: l_finger_2_1
+    100060: l_finger_3
+    100062: l_finger_3_1
+    100064: l_finger_4
+    100066: l_finger_4_1
+    100068: l_finger_5
+    100070: l_finger_5_1
+    100072: l_Foot
+    100074: l_ForeArm
+    100076: l_Hand
+    100078: l_Shin
+    100080: l_Shldr
+    100082: l_Thigh
+    100084: neck
+    100086: //RootNode
+    100088: r_Collar
+    100090: r_finger_1
+    100092: r_finger_1_1
+    100094: r_finger_2
+    100096: r_finger_2_1
+    100098: r_finger_3
+    100100: r_finger_3_1
+    100102: r_finger_4
+    100104: r_finger_4_1
+    100106: r_finger_5
+    100108: r_finger_5_1
+    100110: r_Foot
+    100112: r_ForeArm
+    100114: r_Hand
+    100116: r_Shin
+    100118: r_Shldr
+    100120: r_Thigh
+    100122: Root
+    100124: Ziv_noApron:ZBrushPolyMesh3D1
+    100126: Ziv_test:back
+    400000: abdomen
+    400002: chest
+    400004: discandtable:Chair
+    400006: discandtable:DiningShelf_013
+    400008: discandtable:DiningShelf_014
+    400010: discandtable:DiningShelf_019
+    400012: discandtable:DiningShelf_020
+    400014: discandtable:DiningShelf_021
+    400016: discandtable:DiningShelf_022
+    400018: discandtable:DiningShelf_023
+    400020: discandtable:DiningShelf_024
+    400022: discandtable:DiningShelf_025
+    400024: discandtable:DiningShelf_026
+    400026: discandtable:DiningShelf_027
+    400028: discandtable:DiningShelf_028
+    400030: discandtable:dinnerTable
+    400032: discandtable:group1
+    400034: discandtable:joint1
+    400036: discandtable:joint2
+    400038: discandtable:joint3
+    400040: discandtable:joint4
+    400042: discandtable:joint5
+    400044: discandtable:joint6
+    400046: head
+    400048: hip
+    400050: l_Collar
+    400052: l_finger_1
+    400054: l_finger_1_1
+    400056: l_finger_2
+    400058: l_finger_2_1
+    400060: l_finger_3
+    400062: l_finger_3_1
+    400064: l_finger_4
+    400066: l_finger_4_1
+    400068: l_finger_5
+    400070: l_finger_5_1
+    400072: l_Foot
+    400074: l_ForeArm
+    400076: l_Hand
+    400078: l_Shin
+    400080: l_Shldr
+    400082: l_Thigh
+    400084: neck
+    400086: //RootNode
+    400088: r_Collar
+    400090: r_finger_1
+    400092: r_finger_1_1
+    400094: r_finger_2
+    400096: r_finger_2_1
+    400098: r_finger_3
+    400100: r_finger_3_1
+    400102: r_finger_4
+    400104: r_finger_4_1
+    400106: r_finger_5
+    400108: r_finger_5_1
+    400110: r_Foot
+    400112: r_ForeArm
+    400114: r_Hand
+    400116: r_Shin
+    400118: r_Shldr
+    400120: r_Thigh
+    400122: Root
+    400124: Ziv_noApron:ZBrushPolyMesh3D1
+    400126: Ziv_test:back
+    2000000: Ziv_test:back
+    2100000: Ziv_noApron_initialShadingGroup2
+    2100002: discandtable_Material_003
+    2100004: discandtable_Wood1
+    2300000: discandtable:Chair
+    3300000: discandtable:Chair
+    4300000: Ziv_noApron:ZBrushPolyMesh3D1
+    4300002: discandtable:DiningShelf_013
+    4300004: discandtable:DiningShelf_014
+    4300006: discandtable:Chair
+    4300008: discandtable:DiningShelf_019
+    4300010: discandtable:DiningShelf_020
+    4300012: discandtable:DiningShelf_021
+    4300014: discandtable:DiningShelf_022
+    4300016: discandtable:DiningShelf_023
+    4300018: discandtable:DiningShelf_024
+    4300020: discandtable:DiningShelf_025
+    4300022: discandtable:DiningShelf_026
+    4300024: discandtable:DiningShelf_027
+    4300026: discandtable:DiningShelf_028
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: discandtable:DiningShelf_013
+    13700002: discandtable:DiningShelf_014
+    13700004: discandtable:DiningShelf_019
+    13700006: discandtable:DiningShelf_020
+    13700008: discandtable:DiningShelf_021
+    13700010: discandtable:DiningShelf_022
+    13700012: discandtable:DiningShelf_023
+    13700014: discandtable:DiningShelf_024
+    13700016: discandtable:DiningShelf_025
+    13700018: discandtable:DiningShelf_026
+    13700020: discandtable:DiningShelf_027
+    13700022: discandtable:DiningShelf_028
+    13700024: Ziv_noApron:ZBrushPolyMesh3D1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

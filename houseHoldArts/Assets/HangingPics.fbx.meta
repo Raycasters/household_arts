@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 59d64ef81c1cb34458758500807cc537
+timeCreated: 1517671248
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: chest
+    100004: //RootNode
+    100006: head
+    100008: hip
+    100010: joint1
+    100012: joint2
+    100014: l_Collar
+    100016: l_finger_1
+    100018: l_finger_1_1
+    100020: l_finger_2
+    100022: l_finger_2_1
+    100024: l_finger_3
+    100026: l_finger_3_1
+    100028: l_finger_4
+    100030: l_finger_4_1
+    100032: l_finger_5
+    100034: l_finger_5_1
+    100036: l_Foot
+    100038: l_ForeArm
+    100040: l_Hand
+    100042: l_Shin
+    100044: l_Shldr
+    100046: l_Thigh
+    100048: neck
+    100050: pics:ID111
+    100052: pics:ID121
+    100054: pics:ID129
+    100056: pics:ID464
+    100058: pics:ID474
+    100060: pics:ID484
+    100062: pics:ID492
+    100064: pics:ID500
+    100066: pics:ID96
+    100068: pics:largeFrame
+    100070: pics:picture_frames
+    100072: pics:small_frame
+    100074: r_Collar
+    100076: r_finger_1
+    100078: r_finger_1_1
+    100080: r_finger_2
+    100082: r_finger_2_1
+    100084: r_finger_3
+    100086: r_finger_3_1
+    100088: r_finger_4
+    100090: r_finger_4_1
+    100092: r_finger_5
+    100094: r_finger_5_1
+    100096: r_Foot
+    100098: r_ForeArm
+    100100: r_Hand
+    100102: r_Shin
+    100104: r_Shldr
+    100106: r_Thigh
+    100108: Root
+    100110: Ziv_noApron:ZBrushPolyMesh3D1
+    400000: abdomen
+    400002: chest
+    400004: //RootNode
+    400006: head
+    400008: hip
+    400010: joint1
+    400012: joint2
+    400014: l_Collar
+    400016: l_finger_1
+    400018: l_finger_1_1
+    400020: l_finger_2
+    400022: l_finger_2_1
+    400024: l_finger_3
+    400026: l_finger_3_1
+    400028: l_finger_4
+    400030: l_finger_4_1
+    400032: l_finger_5
+    400034: l_finger_5_1
+    400036: l_Foot
+    400038: l_ForeArm
+    400040: l_Hand
+    400042: l_Shin
+    400044: l_Shldr
+    400046: l_Thigh
+    400048: neck
+    400050: pics:ID111
+    400052: pics:ID121
+    400054: pics:ID129
+    400056: pics:ID464
+    400058: pics:ID474
+    400060: pics:ID484
+    400062: pics:ID492
+    400064: pics:ID500
+    400066: pics:ID96
+    400068: pics:largeFrame
+    400070: pics:picture_frames
+    400072: pics:small_frame
+    400074: r_Collar
+    400076: r_finger_1
+    400078: r_finger_1_1
+    400080: r_finger_2
+    400082: r_finger_2_1
+    400084: r_finger_3
+    400086: r_finger_3_1
+    400088: r_finger_4
+    400090: r_finger_4_1
+    400092: r_finger_5
+    400094: r_finger_5_1
+    400096: r_Foot
+    400098: r_ForeArm
+    400100: r_Hand
+    400102: r_Shin
+    400104: r_Shldr
+    400106: r_Thigh
+    400108: Root
+    400110: Ziv_noApron:ZBrushPolyMesh3D1
+    4300000: Ziv_noApron:ZBrushPolyMesh3D1
+    4300002: pics:ID474
+    4300004: pics:ID484
+    4300006: pics:ID464
+    4300008: pics:ID492
+    4300010: pics:ID500
+    4300012: pics:picture_frames
+    4300014: pics:ID96
+    4300016: pics:ID111
+    4300018: pics:ID121
+    4300020: pics:ID129
+    7400000: test01
+    9500000: //RootNode
+    13700000: pics:ID111
+    13700002: pics:ID121
+    13700004: pics:ID129
+    13700006: pics:ID464
+    13700008: pics:ID474
+    13700010: pics:ID484
+    13700012: pics:ID492
+    13700014: pics:ID500
+    13700016: pics:ID96
+    13700018: pics:picture_frames
+    13700020: Ziv_noApron:ZBrushPolyMesh3D1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: test01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 338
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: pics:picture_frames
+        weight: 1
+      - path: pics:picture_frames/pics:largeFrame
+        weight: 1
+      - path: pics:picture_frames/pics:largeFrame/pics:ID96
+        weight: 1
+      - path: pics:picture_frames/pics:largeFrame/pics:ID111
+        weight: 1
+      - path: pics:picture_frames/pics:largeFrame/pics:ID121
+        weight: 1
+      - path: pics:picture_frames/pics:largeFrame/pics:ID129
+        weight: 1
+      - path: pics:small_frame
+        weight: 1
+      - path: pics:small_frame/pics:ID464
+        weight: 1
+      - path: pics:small_frame/pics:ID474
+        weight: 1
+      - path: pics:small_frame/pics:ID484
+        weight: 1
+      - path: pics:small_frame/pics:ID492
+        weight: 1
+      - path: pics:small_frame/pics:ID500
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/hip
+        weight: 1
+      - path: Root/hip/abdomen
+        weight: 1
+      - path: Root/hip/abdomen/chest
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_1/l_finger_1_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_2
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_2/l_finger_2_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_3
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_3/l_finger_3_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_4
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_4/l_finger_4_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_5
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_5/l_finger_5_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/neck
+        weight: 1
+      - path: Root/hip/abdomen/chest/neck/head
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_1/r_finger_1_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_2
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_2/r_finger_2_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_3
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_3/r_finger_3_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_4
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_4/r_finger_4_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_5
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_5/r_finger_5_1
+        weight: 1
+      - path: Root/hip/l_Thigh
+        weight: 1
+      - path: Root/hip/l_Thigh/l_Shin
+        weight: 1
+      - path: Root/hip/l_Thigh/l_Shin/l_Foot
+        weight: 1
+      - path: Root/hip/r_Thigh
+        weight: 1
+      - path: Root/hip/r_Thigh/r_Shin
+        weight: 1
+      - path: Root/hip/r_Thigh/r_Shin/r_Foot
+        weight: 1
+      - path: Ziv_noApron:ZBrushPolyMesh3D1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

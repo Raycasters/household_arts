@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 747d2c920799540618710e4c7d5b2f4e
+timeCreated: 1518577005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint2
+    100004: joint3
+    100006: pics:ID111
+    100008: pics:ID121
+    100010: pics:ID129
+    100012: pics:ID464
+    100014: pics:ID474
+    100016: pics:ID484
+    100018: pics:ID492
+    100020: pics:ID500
+    100022: pics:ID96
+    100024: pics:largeFrame
+    100026: pics:picture_frames
+    100028: pics:small_frame
+    100030: //RootNode
+    400000: joint1
+    400002: joint2
+    400004: joint3
+    400006: pics:ID111
+    400008: pics:ID121
+    400010: pics:ID129
+    400012: pics:ID464
+    400014: pics:ID474
+    400016: pics:ID484
+    400018: pics:ID492
+    400020: pics:ID500
+    400022: pics:ID96
+    400024: pics:largeFrame
+    400026: pics:picture_frames
+    400028: pics:small_frame
+    400030: //RootNode
+    2100000: pics___Metal_Corrogated_Shiny_
+    2100002: pics_material
+    2100004: pics_material_0
+    2100006: pics___Color_000_
+    2100008: pics_material_4
+    2100010: pics_material_2
+    4300000: pics:ID474
+    4300002: pics:ID484
+    4300004: pics:ID464
+    4300006: pics:ID492
+    4300008: pics:ID500
+    4300010: pics:picture_frames
+    4300012: pics:ID96
+    4300014: pics:ID111
+    4300016: pics:ID121
+    4300018: pics:ID129
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pics:ID111
+    13700002: pics:ID121
+    13700004: pics:ID129
+    13700006: pics:ID464
+    13700008: pics:ID474
+    13700010: pics:ID484
+    13700012: pics:ID492
+    13700014: pics:ID500
+    13700016: pics:ID96
+    13700018: pics:picture_frames
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

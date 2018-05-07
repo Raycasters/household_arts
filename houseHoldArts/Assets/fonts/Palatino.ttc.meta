@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cbe490662eec14b86b15c3670d1ed1d7
+timeCreated: 1513471139
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Palatino
+  fontNames:
+  - Palatino
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26dac13fada7142389555ee43b006638, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

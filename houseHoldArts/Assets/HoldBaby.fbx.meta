@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: f585c51e98d6dd2439dddc206cacc744
+timeCreated: 1517673628
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: chest
+    100004: head
+    100006: hip
+    100008: //RootNode
+    100010: l_Collar
+    100012: l_finger_1
+    100014: l_finger_1_1
+    100016: l_finger_2
+    100018: l_finger_2_1
+    100020: l_finger_3
+    100022: l_finger_3_1
+    100024: l_finger_4
+    100026: l_finger_4_1
+    100028: l_finger_5
+    100030: l_finger_5_1
+    100032: l_Foot
+    100034: l_ForeArm
+    100036: l_Hand
+    100038: l_Shin
+    100040: l_Shldr
+    100042: l_Thigh
+    100044: neck
+    100046: r_Collar
+    100048: r_finger_1
+    100050: r_finger_1_1
+    100052: r_finger_2
+    100054: r_finger_2_1
+    100056: r_finger_3
+    100058: r_finger_3_1
+    100060: r_finger_4
+    100062: r_finger_4_1
+    100064: r_finger_5
+    100066: r_finger_5_1
+    100068: r_Foot
+    100070: r_ForeArm
+    100072: r_Hand
+    100074: r_Shin
+    100076: r_Shldr
+    100078: r_Thigh
+    100080: Root
+    100082: sleepingBaby_v001:eyeball
+    100084: sleepingBaby_v001:group1
+    100086: sleepingBaby_v001:iris
+    100088: sleepingBaby_v001:lips
+    100090: sleepingBaby_v001:mixamorig:Head
+    100092: sleepingBaby_v001:mixamorig:HeadTop_End
+    100094: sleepingBaby_v001:mixamorig:Hips
+    100096: sleepingBaby_v001:mixamorig:LeftArm
+    100098: sleepingBaby_v001:mixamorig:LeftFoot
+    100100: sleepingBaby_v001:mixamorig:LeftForeArm
+    100102: sleepingBaby_v001:mixamorig:LeftHand
+    100104: sleepingBaby_v001:mixamorig:LeftHandIndex1
+    100106: sleepingBaby_v001:mixamorig:LeftHandIndex2
+    100108: sleepingBaby_v001:mixamorig:LeftHandIndex3
+    100110: sleepingBaby_v001:mixamorig:LeftHandIndex4
+    100112: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+    100114: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+    100116: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+    100118: sleepingBaby_v001:mixamorig:LeftHandMiddle4
+    100120: sleepingBaby_v001:mixamorig:LeftHandPinky1
+    100122: sleepingBaby_v001:mixamorig:LeftHandPinky2
+    100124: sleepingBaby_v001:mixamorig:LeftHandPinky3
+    100126: sleepingBaby_v001:mixamorig:LeftHandPinky4
+    100128: sleepingBaby_v001:mixamorig:LeftHandRing1
+    100130: sleepingBaby_v001:mixamorig:LeftHandRing2
+    100132: sleepingBaby_v001:mixamorig:LeftHandRing3
+    100134: sleepingBaby_v001:mixamorig:LeftHandRing4
+    100136: sleepingBaby_v001:mixamorig:LeftHandThumb1
+    100138: sleepingBaby_v001:mixamorig:LeftHandThumb2
+    100140: sleepingBaby_v001:mixamorig:LeftHandThumb3
+    100142: sleepingBaby_v001:mixamorig:LeftHandThumb4
+    100144: sleepingBaby_v001:mixamorig:LeftLeg
+    100146: sleepingBaby_v001:mixamorig:LeftShoulder
+    100148: sleepingBaby_v001:mixamorig:LeftToe_End
+    100150: sleepingBaby_v001:mixamorig:LeftToeBase
+    100152: sleepingBaby_v001:mixamorig:LeftUpLeg
+    100154: sleepingBaby_v001:mixamorig:Neck
+    100156: sleepingBaby_v001:mixamorig:RightArm
+    100158: sleepingBaby_v001:mixamorig:RightFoot
+    100160: sleepingBaby_v001:mixamorig:RightForeArm
+    100162: sleepingBaby_v001:mixamorig:RightHand
+    100164: sleepingBaby_v001:mixamorig:RightHandIndex1
+    100166: sleepingBaby_v001:mixamorig:RightHandIndex2
+    100168: sleepingBaby_v001:mixamorig:RightHandIndex3
+    100170: sleepingBaby_v001:mixamorig:RightHandIndex4
+    100172: sleepingBaby_v001:mixamorig:RightHandMiddle1
+    100174: sleepingBaby_v001:mixamorig:RightHandMiddle2
+    100176: sleepingBaby_v001:mixamorig:RightHandMiddle3
+    100178: sleepingBaby_v001:mixamorig:RightHandMiddle4
+    100180: sleepingBaby_v001:mixamorig:RightHandPinky1
+    100182: sleepingBaby_v001:mixamorig:RightHandPinky2
+    100184: sleepingBaby_v001:mixamorig:RightHandPinky3
+    100186: sleepingBaby_v001:mixamorig:RightHandPinky4
+    100188: sleepingBaby_v001:mixamorig:RightHandRing1
+    100190: sleepingBaby_v001:mixamorig:RightHandRing2
+    100192: sleepingBaby_v001:mixamorig:RightHandRing3
+    100194: sleepingBaby_v001:mixamorig:RightHandRing4
+    100196: sleepingBaby_v001:mixamorig:RightHandThumb1
+    100198: sleepingBaby_v001:mixamorig:RightHandThumb2
+    100200: sleepingBaby_v001:mixamorig:RightHandThumb3
+    100202: sleepingBaby_v001:mixamorig:RightHandThumb4
+    100204: sleepingBaby_v001:mixamorig:RightLeg
+    100206: sleepingBaby_v001:mixamorig:RightShoulder
+    100208: sleepingBaby_v001:mixamorig:RightToe_End
+    100210: sleepingBaby_v001:mixamorig:RightToeBase
+    100212: sleepingBaby_v001:mixamorig:RightUpLeg
+    100214: sleepingBaby_v001:mixamorig:Spine
+    100216: sleepingBaby_v001:mixamorig:Spine1
+    100218: sleepingBaby_v001:mixamorig:Spine2
+    100220: sleepingBaby_v001:pupil
+    100222: sleepingBaby_v001:skin
+    100224: Ziv_noApron:ZBrushPolyMesh3D1
+    400000: abdomen
+    400002: chest
+    400004: head
+    400006: hip
+    400008: //RootNode
+    400010: l_Collar
+    400012: l_finger_1
+    400014: l_finger_1_1
+    400016: l_finger_2
+    400018: l_finger_2_1
+    400020: l_finger_3
+    400022: l_finger_3_1
+    400024: l_finger_4
+    400026: l_finger_4_1
+    400028: l_finger_5
+    400030: l_finger_5_1
+    400032: l_Foot
+    400034: l_ForeArm
+    400036: l_Hand
+    400038: l_Shin
+    400040: l_Shldr
+    400042: l_Thigh
+    400044: neck
+    400046: r_Collar
+    400048: r_finger_1
+    400050: r_finger_1_1
+    400052: r_finger_2
+    400054: r_finger_2_1
+    400056: r_finger_3
+    400058: r_finger_3_1
+    400060: r_finger_4
+    400062: r_finger_4_1
+    400064: r_finger_5
+    400066: r_finger_5_1
+    400068: r_Foot
+    400070: r_ForeArm
+    400072: r_Hand
+    400074: r_Shin
+    400076: r_Shldr
+    400078: r_Thigh
+    400080: Root
+    400082: sleepingBaby_v001:eyeball
+    400084: sleepingBaby_v001:group1
+    400086: sleepingBaby_v001:iris
+    400088: sleepingBaby_v001:lips
+    400090: sleepingBaby_v001:mixamorig:Head
+    400092: sleepingBaby_v001:mixamorig:HeadTop_End
+    400094: sleepingBaby_v001:mixamorig:Hips
+    400096: sleepingBaby_v001:mixamorig:LeftArm
+    400098: sleepingBaby_v001:mixamorig:LeftFoot
+    400100: sleepingBaby_v001:mixamorig:LeftForeArm
+    400102: sleepingBaby_v001:mixamorig:LeftHand
+    400104: sleepingBaby_v001:mixamorig:LeftHandIndex1
+    400106: sleepingBaby_v001:mixamorig:LeftHandIndex2
+    400108: sleepingBaby_v001:mixamorig:LeftHandIndex3
+    400110: sleepingBaby_v001:mixamorig:LeftHandIndex4
+    400112: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+    400114: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+    400116: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+    400118: sleepingBaby_v001:mixamorig:LeftHandMiddle4
+    400120: sleepingBaby_v001:mixamorig:LeftHandPinky1
+    400122: sleepingBaby_v001:mixamorig:LeftHandPinky2
+    400124: sleepingBaby_v001:mixamorig:LeftHandPinky3
+    400126: sleepingBaby_v001:mixamorig:LeftHandPinky4
+    400128: sleepingBaby_v001:mixamorig:LeftHandRing1
+    400130: sleepingBaby_v001:mixamorig:LeftHandRing2
+    400132: sleepingBaby_v001:mixamorig:LeftHandRing3
+    400134: sleepingBaby_v001:mixamorig:LeftHandRing4
+    400136: sleepingBaby_v001:mixamorig:LeftHandThumb1
+    400138: sleepingBaby_v001:mixamorig:LeftHandThumb2
+    400140: sleepingBaby_v001:mixamorig:LeftHandThumb3
+    400142: sleepingBaby_v001:mixamorig:LeftHandThumb4
+    400144: sleepingBaby_v001:mixamorig:LeftLeg
+    400146: sleepingBaby_v001:mixamorig:LeftShoulder
+    400148: sleepingBaby_v001:mixamorig:LeftToe_End
+    400150: sleepingBaby_v001:mixamorig:LeftToeBase
+    400152: sleepingBaby_v001:mixamorig:LeftUpLeg
+    400154: sleepingBaby_v001:mixamorig:Neck
+    400156: sleepingBaby_v001:mixamorig:RightArm
+    400158: sleepingBaby_v001:mixamorig:RightFoot
+    400160: sleepingBaby_v001:mixamorig:RightForeArm
+    400162: sleepingBaby_v001:mixamorig:RightHand
+    400164: sleepingBaby_v001:mixamorig:RightHandIndex1
+    400166: sleepingBaby_v001:mixamorig:RightHandIndex2
+    400168: sleepingBaby_v001:mixamorig:RightHandIndex3
+    400170: sleepingBaby_v001:mixamorig:RightHandIndex4
+    400172: sleepingBaby_v001:mixamorig:RightHandMiddle1
+    400174: sleepingBaby_v001:mixamorig:RightHandMiddle2
+    400176: sleepingBaby_v001:mixamorig:RightHandMiddle3
+    400178: sleepingBaby_v001:mixamorig:RightHandMiddle4
+    400180: sleepingBaby_v001:mixamorig:RightHandPinky1
+    400182: sleepingBaby_v001:mixamorig:RightHandPinky2
+    400184: sleepingBaby_v001:mixamorig:RightHandPinky3
+    400186: sleepingBaby_v001:mixamorig:RightHandPinky4
+    400188: sleepingBaby_v001:mixamorig:RightHandRing1
+    400190: sleepingBaby_v001:mixamorig:RightHandRing2
+    400192: sleepingBaby_v001:mixamorig:RightHandRing3
+    400194: sleepingBaby_v001:mixamorig:RightHandRing4
+    400196: sleepingBaby_v001:mixamorig:RightHandThumb1
+    400198: sleepingBaby_v001:mixamorig:RightHandThumb2
+    400200: sleepingBaby_v001:mixamorig:RightHandThumb3
+    400202: sleepingBaby_v001:mixamorig:RightHandThumb4
+    400204: sleepingBaby_v001:mixamorig:RightLeg
+    400206: sleepingBaby_v001:mixamorig:RightShoulder
+    400208: sleepingBaby_v001:mixamorig:RightToe_End
+    400210: sleepingBaby_v001:mixamorig:RightToeBase
+    400212: sleepingBaby_v001:mixamorig:RightUpLeg
+    400214: sleepingBaby_v001:mixamorig:Spine
+    400216: sleepingBaby_v001:mixamorig:Spine1
+    400218: sleepingBaby_v001:mixamorig:Spine2
+    400220: sleepingBaby_v001:pupil
+    400222: sleepingBaby_v001:skin
+    400224: Ziv_noApron:ZBrushPolyMesh3D1
+    4300000: Ziv_noApron:ZBrushPolyMesh3D1
+    4300002: sleepingBaby_v001:skin
+    4300004: sleepingBaby_v001:pupil
+    4300006: sleepingBaby_v001:lips
+    4300008: sleepingBaby_v001:iris
+    4300010: sleepingBaby_v001:eyeball
+    7400000: test02
+    9500000: //RootNode
+    13700000: sleepingBaby_v001:eyeball
+    13700002: sleepingBaby_v001:iris
+    13700004: sleepingBaby_v001:lips
+    13700006: sleepingBaby_v001:pupil
+    13700008: sleepingBaby_v001:skin
+    13700010: Ziv_noApron:ZBrushPolyMesh3D1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: test02
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/hip
+        weight: 1
+      - path: Root/hip/abdomen
+        weight: 1
+      - path: Root/hip/abdomen/chest
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_1/l_finger_1_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_2
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_2/l_finger_2_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_3
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_3/l_finger_3_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_4
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_4/l_finger_4_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_5
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_5/l_finger_5_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/neck
+        weight: 1
+      - path: Root/hip/abdomen/chest/neck/head
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_1/r_finger_1_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_2
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_2/r_finger_2_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_3
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_3/r_finger_3_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_4
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_4/r_finger_4_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_5
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_5/r_finger_5_1
+        weight: 1
+      - path: Root/hip/l_Thigh
+        weight: 1
+      - path: Root/hip/l_Thigh/l_Shin
+        weight: 1
+      - path: Root/hip/l_Thigh/l_Shin/l_Foot
+        weight: 1
+      - path: Root/hip/r_Thigh
+        weight: 1
+      - path: Root/hip/r_Thigh/r_Shin
+        weight: 1
+      - path: Root/hip/r_Thigh/r_Shin/r_Foot
+        weight: 1
+      - path: sleepingBaby_v001:group1
+        weight: 1
+      - path: sleepingBaby_v001:group1/sleepingBaby_v001:eyeball
+        weight: 1
+      - path: sleepingBaby_v001:group1/sleepingBaby_v001:iris
+        weight: 1
+      - path: sleepingBaby_v001:group1/sleepingBaby_v001:lips
+        weight: 1
+      - path: sleepingBaby_v001:group1/sleepingBaby_v001:pupil
+        weight: 1
+      - path: sleepingBaby_v001:group1/sleepingBaby_v001:skin
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:LeftUpLeg
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:LeftUpLeg/sleepingBaby_v001:mixamorig:LeftLeg
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:LeftUpLeg/sleepingBaby_v001:mixamorig:LeftLeg/sleepingBaby_v001:mixamorig:LeftFoot
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:LeftUpLeg/sleepingBaby_v001:mixamorig:LeftLeg/sleepingBaby_v001:mixamorig:LeftFoot/sleepingBaby_v001:mixamorig:LeftToeBase
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:LeftUpLeg/sleepingBaby_v001:mixamorig:LeftLeg/sleepingBaby_v001:mixamorig:LeftFoot/sleepingBaby_v001:mixamorig:LeftToeBase/sleepingBaby_v001:mixamorig:LeftToe_End
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:RightUpLeg
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:RightUpLeg/sleepingBaby_v001:mixamorig:RightLeg
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:RightUpLeg/sleepingBaby_v001:mixamorig:RightLeg/sleepingBaby_v001:mixamorig:RightFoot
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:RightUpLeg/sleepingBaby_v001:mixamorig:RightLeg/sleepingBaby_v001:mixamorig:RightFoot/sleepingBaby_v001:mixamorig:RightToeBase
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:RightUpLeg/sleepingBaby_v001:mixamorig:RightLeg/sleepingBaby_v001:mixamorig:RightFoot/sleepingBaby_v001:mixamorig:RightToeBase/sleepingBaby_v001:mixamorig:RightToe_End
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandIndex1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandIndex1/sleepingBaby_v001:mixamorig:LeftHandIndex2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandIndex1/sleepingBaby_v001:mixamorig:LeftHandIndex2/sleepingBaby_v001:mixamorig:LeftHandIndex3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandIndex1/sleepingBaby_v001:mixamorig:LeftHandIndex2/sleepingBaby_v001:mixamorig:LeftHandIndex3/sleepingBaby_v001:mixamorig:LeftHandIndex4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandMiddle1/sleepingBaby_v001:mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandMiddle1/sleepingBaby_v001:mixamorig:LeftHandMiddle2/sleepingBaby_v001:mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandMiddle1/sleepingBaby_v001:mixamorig:LeftHandMiddle2/sleepingBaby_v001:mixamorig:LeftHandMiddle3/sleepingBaby_v001:mixamorig:LeftHandMiddle4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandPinky1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandPinky1/sleepingBaby_v001:mixamorig:LeftHandPinky2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandPinky1/sleepingBaby_v001:mixamorig:LeftHandPinky2/sleepingBaby_v001:mixamorig:LeftHandPinky3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandPinky1/sleepingBaby_v001:mixamorig:LeftHandPinky2/sleepingBaby_v001:mixamorig:LeftHandPinky3/sleepingBaby_v001:mixamorig:LeftHandPinky4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandRing1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandRing1/sleepingBaby_v001:mixamorig:LeftHandRing2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandRing1/sleepingBaby_v001:mixamorig:LeftHandRing2/sleepingBaby_v001:mixamorig:LeftHandRing3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandRing1/sleepingBaby_v001:mixamorig:LeftHandRing2/sleepingBaby_v001:mixamorig:LeftHandRing3/sleepingBaby_v001:mixamorig:LeftHandRing4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandThumb1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandThumb1/sleepingBaby_v001:mixamorig:LeftHandThumb2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandThumb1/sleepingBaby_v001:mixamorig:LeftHandThumb2/sleepingBaby_v001:mixamorig:LeftHandThumb3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:LeftShoulder/sleepingBaby_v001:mixamorig:LeftArm/sleepingBaby_v001:mixamorig:LeftForeArm/sleepingBaby_v001:mixamorig:LeftHand/sleepingBaby_v001:mixamorig:LeftHandThumb1/sleepingBaby_v001:mixamorig:LeftHandThumb2/sleepingBaby_v001:mixamorig:LeftHandThumb3/sleepingBaby_v001:mixamorig:LeftHandThumb4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:Neck
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:Neck/sleepingBaby_v001:mixamorig:Head
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:Neck/sleepingBaby_v001:mixamorig:Head/sleepingBaby_v001:mixamorig:HeadTop_End
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandIndex1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandIndex1/sleepingBaby_v001:mixamorig:RightHandIndex2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandIndex1/sleepingBaby_v001:mixamorig:RightHandIndex2/sleepingBaby_v001:mixamorig:RightHandIndex3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandIndex1/sleepingBaby_v001:mixamorig:RightHandIndex2/sleepingBaby_v001:mixamorig:RightHandIndex3/sleepingBaby_v001:mixamorig:RightHandIndex4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandMiddle1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandMiddle1/sleepingBaby_v001:mixamorig:RightHandMiddle2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandMiddle1/sleepingBaby_v001:mixamorig:RightHandMiddle2/sleepingBaby_v001:mixamorig:RightHandMiddle3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandMiddle1/sleepingBaby_v001:mixamorig:RightHandMiddle2/sleepingBaby_v001:mixamorig:RightHandMiddle3/sleepingBaby_v001:mixamorig:RightHandMiddle4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandPinky1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandPinky1/sleepingBaby_v001:mixamorig:RightHandPinky2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandPinky1/sleepingBaby_v001:mixamorig:RightHandPinky2/sleepingBaby_v001:mixamorig:RightHandPinky3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandPinky1/sleepingBaby_v001:mixamorig:RightHandPinky2/sleepingBaby_v001:mixamorig:RightHandPinky3/sleepingBaby_v001:mixamorig:RightHandPinky4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandRing1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandRing1/sleepingBaby_v001:mixamorig:RightHandRing2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandRing1/sleepingBaby_v001:mixamorig:RightHandRing2/sleepingBaby_v001:mixamorig:RightHandRing3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandRing1/sleepingBaby_v001:mixamorig:RightHandRing2/sleepingBaby_v001:mixamorig:RightHandRing3/sleepingBaby_v001:mixamorig:RightHandRing4
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandThumb1
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandThumb1/sleepingBaby_v001:mixamorig:RightHandThumb2
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandThumb1/sleepingBaby_v001:mixamorig:RightHandThumb2/sleepingBaby_v001:mixamorig:RightHandThumb3
+        weight: 1
+      - path: sleepingBaby_v001:mixamorig:Hips/sleepingBaby_v001:mixamorig:Spine/sleepingBaby_v001:mixamorig:Spine1/sleepingBaby_v001:mixamorig:Spine2/sleepingBaby_v001:mixamorig:RightShoulder/sleepingBaby_v001:mixamorig:RightArm/sleepingBaby_v001:mixamorig:RightForeArm/sleepingBaby_v001:mixamorig:RightHand/sleepingBaby_v001:mixamorig:RightHandThumb1/sleepingBaby_v001:mixamorig:RightHandThumb2/sleepingBaby_v001:mixamorig:RightHandThumb3/sleepingBaby_v001:mixamorig:RightHandThumb4
+        weight: 1
+      - path: Ziv_noApron:ZBrushPolyMesh3D1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

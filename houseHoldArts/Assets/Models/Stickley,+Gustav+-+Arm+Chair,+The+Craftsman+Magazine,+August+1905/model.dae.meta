@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: b2a1c28ab599144d3bfd658eeddcc866
+timeCreated: 1512673916
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_10
+    100006: group_11
+    100008: group_12
+    100010: group_13
+    100012: group_14
+    100014: group_15
+    100016: group_16
+    100018: group_17
+    100020: group_18
+    100022: group_19
+    100024: group_2
+    100026: group_20
+    100028: group_21
+    100030: group_22
+    100032: group_23
+    100034: group_24
+    100036: group_24 1
+    100038: group_24 10
+    100040: group_24 100
+    100042: group_24 101
+    100044: group_24 102
+    100046: group_24 103
+    100048: group_24 104
+    100050: group_24 105
+    100052: group_24 106
+    100054: group_24 107
+    100056: group_24 108
+    100058: group_24 109
+    100060: group_24 11
+    100062: group_24 12
+    100064: group_24 13
+    100066: group_24 14
+    100068: group_24 15
+    100070: group_24 16
+    100072: group_24 17
+    100074: group_24 18
+    100076: group_24 19
+    100078: group_24 2
+    100080: group_24 20
+    100082: group_24 21
+    100084: group_24 22
+    100086: group_24 23
+    100088: group_24 24
+    100090: group_24 25
+    100092: group_24 26
+    100094: group_24 27
+    100096: group_24 28
+    100098: group_24 29
+    100100: group_24 3
+    100102: group_24 30
+    100104: group_24 31
+    100106: group_24 32
+    100108: group_24 33
+    100110: group_24 34
+    100112: group_24 35
+    100114: group_24 36
+    100116: group_24 37
+    100118: group_24 38
+    100120: group_24 39
+    100122: group_24 4
+    100124: group_24 40
+    100126: group_24 41
+    100128: group_24 42
+    100130: group_24 43
+    100132: group_24 44
+    100134: group_24 45
+    100136: group_24 46
+    100138: group_24 47
+    100140: group_24 48
+    100142: group_24 49
+    100144: group_24 5
+    100146: group_24 50
+    100148: group_24 51
+    100150: group_24 52
+    100152: group_24 53
+    100154: group_24 54
+    100156: group_24 55
+    100158: group_24 56
+    100160: group_24 57
+    100162: group_24 58
+    100164: group_24 59
+    100166: group_24 6
+    100168: group_24 60
+    100170: group_24 61
+    100172: group_24 62
+    100174: group_24 63
+    100176: group_24 64
+    100178: group_24 65
+    100180: group_24 66
+    100182: group_24 67
+    100184: group_24 68
+    100186: group_24 69
+    100188: group_24 7
+    100190: group_24 70
+    100192: group_24 71
+    100194: group_24 72
+    100196: group_24 73
+    100198: group_24 74
+    100200: group_24 75
+    100202: group_24 76
+    100204: group_24 77
+    100206: group_24 78
+    100208: group_24 79
+    100210: group_24 8
+    100212: group_24 80
+    100214: group_24 81
+    100216: group_24 82
+    100218: group_24 83
+    100220: group_24 84
+    100222: group_24 85
+    100224: group_24 86
+    100226: group_24 87
+    100228: group_24 88
+    100230: group_24 89
+    100232: group_24 9
+    100234: group_24 90
+    100236: group_24 91
+    100238: group_24 92
+    100240: group_24 93
+    100242: group_24 94
+    100244: group_24 95
+    100246: group_24 96
+    100248: group_24 97
+    100250: group_24 98
+    100252: group_24 99
+    100254: group_3
+    100256: group_4
+    100258: group_5
+    100260: group_6
+    100262: group_7
+    100264: group_8
+    100266: group_9
+    100268: ID227
+    100270: ID264
+    100272: ID268
+    100274: ID283
+    100276: ID287
+    100278: instance_0
+    100280: instance_1
+    100282: instance_10
+    100284: instance_100
+    100286: instance_101
+    100288: instance_102
+    100290: instance_103
+    100292: instance_104
+    100294: instance_105
+    100296: instance_106
+    100298: instance_107
+    100300: instance_108
+    100302: instance_109
+    100304: instance_11
+    100306: instance_12
+    100308: instance_13
+    100310: instance_14
+    100312: instance_15
+    100314: instance_16
+    100316: instance_17
+    100318: instance_18
+    100320: instance_19
+    100322: instance_2
+    100324: instance_20
+    100326: instance_21
+    100328: instance_22
+    100330: instance_23
+    100332: instance_24
+    100334: instance_25
+    100336: instance_26
+    100338: instance_27
+    100340: instance_28
+    100342: instance_29
+    100344: instance_3
+    100346: instance_30
+    100348: instance_31
+    100350: instance_32
+    100352: instance_33
+    100354: instance_34
+    100356: instance_35
+    100358: instance_36
+    100360: instance_37
+    100362: instance_38
+    100364: instance_39
+    100366: instance_4
+    100368: instance_40
+    100370: instance_41
+    100372: instance_42
+    100374: instance_43
+    100376: instance_44
+    100378: instance_45
+    100380: instance_46
+    100382: instance_47
+    100384: instance_48
+    100386: instance_49
+    100388: instance_5
+    100390: instance_50
+    100392: instance_51
+    100394: instance_52
+    100396: instance_53
+    100398: instance_54
+    100400: instance_55
+    100402: instance_56
+    100404: instance_57
+    100406: instance_58
+    100408: instance_59
+    100410: instance_6
+    100412: instance_60
+    100414: instance_61
+    100416: instance_62
+    100418: instance_63
+    100420: instance_64
+    100422: instance_65
+    100424: instance_66
+    100426: instance_67
+    100428: instance_68
+    100430: instance_69
+    100432: instance_7
+    100434: instance_70
+    100436: instance_71
+    100438: instance_72
+    100440: instance_73
+    100442: instance_74
+    100444: instance_75
+    100446: instance_76
+    100448: instance_77
+    100450: instance_78
+    100452: instance_79
+    100454: instance_8
+    100456: instance_80
+    100458: instance_81
+    100460: instance_82
+    100462: instance_83
+    100464: instance_84
+    100466: instance_85
+    100468: instance_86
+    100470: instance_87
+    100472: instance_88
+    100474: instance_89
+    100476: instance_9
+    100478: instance_90
+    100480: instance_91
+    100482: instance_92
+    100484: instance_93
+    100486: instance_94
+    100488: instance_95
+    100490: instance_96
+    100492: instance_97
+    100494: instance_98
+    100496: instance_99
+    100498: //RootNode
+    100500: skp_camera_Last_Saved_SketchUp_View
+    100502: Tack_Head
+    100504: Tack_Head 1
+    100506: Tack_Head 10
+    100508: Tack_Head 100
+    100510: Tack_Head 101
+    100512: Tack_Head 102
+    100514: Tack_Head 103
+    100516: Tack_Head 104
+    100518: Tack_Head 105
+    100520: Tack_Head 106
+    100522: Tack_Head 107
+    100524: Tack_Head 108
+    100526: Tack_Head 109
+    100528: Tack_Head 11
+    100530: Tack_Head 12
+    100532: Tack_Head 13
+    100534: Tack_Head 14
+    100536: Tack_Head 15
+    100538: Tack_Head 16
+    100540: Tack_Head 17
+    100542: Tack_Head 18
+    100544: Tack_Head 19
+    100546: Tack_Head 2
+    100548: Tack_Head 20
+    100550: Tack_Head 21
+    100552: Tack_Head 22
+    100554: Tack_Head 23
+    100556: Tack_Head 24
+    100558: Tack_Head 25
+    100560: Tack_Head 26
+    100562: Tack_Head 27
+    100564: Tack_Head 28
+    100566: Tack_Head 29
+    100568: Tack_Head 3
+    100570: Tack_Head 30
+    100572: Tack_Head 31
+    100574: Tack_Head 32
+    100576: Tack_Head 33
+    100578: Tack_Head 34
+    100580: Tack_Head 35
+    100582: Tack_Head 36
+    100584: Tack_Head 37
+    100586: Tack_Head 38
+    100588: Tack_Head 39
+    100590: Tack_Head 4
+    100592: Tack_Head 40
+    100594: Tack_Head 41
+    100596: Tack_Head 42
+    100598: Tack_Head 43
+    100600: Tack_Head 44
+    100602: Tack_Head 45
+    100604: Tack_Head 46
+    100606: Tack_Head 47
+    100608: Tack_Head 48
+    100610: Tack_Head 49
+    100612: Tack_Head 5
+    100614: Tack_Head 50
+    100616: Tack_Head 51
+    100618: Tack_Head 52
+    100620: Tack_Head 53
+    100622: Tack_Head 54
+    100624: Tack_Head 55
+    100626: Tack_Head 56
+    100628: Tack_Head 57
+    100630: Tack_Head 58
+    100632: Tack_Head 59
+    100634: Tack_Head 6
+    100636: Tack_Head 60
+    100638: Tack_Head 61
+    100640: Tack_Head 62
+    100642: Tack_Head 63
+    100644: Tack_Head 64
+    100646: Tack_Head 65
+    100648: Tack_Head 66
+    100650: Tack_Head 67
+    100652: Tack_Head 68
+    100654: Tack_Head 69
+    100656: Tack_Head 7
+    100658: Tack_Head 70
+    100660: Tack_Head 71
+    100662: Tack_Head 72
+    100664: Tack_Head 73
+    100666: Tack_Head 74
+    100668: Tack_Head 75
+    100670: Tack_Head 76
+    100672: Tack_Head 77
+    100674: Tack_Head 78
+    100676: Tack_Head 79
+    100678: Tack_Head 8
+    100680: Tack_Head 80
+    100682: Tack_Head 81
+    100684: Tack_Head 82
+    100686: Tack_Head 83
+    100688: Tack_Head 84
+    100690: Tack_Head 85
+    100692: Tack_Head 86
+    100694: Tack_Head 87
+    100696: Tack_Head 88
+    100698: Tack_Head 89
+    100700: Tack_Head 9
+    100702: Tack_Head 90
+    100704: Tack_Head 91
+    100706: Tack_Head 92
+    100708: Tack_Head 93
+    100710: Tack_Head 94
+    100712: Tack_Head 95
+    100714: Tack_Head 96
+    100716: Tack_Head 97
+    100718: Tack_Head 98
+    100720: Tack_Head 99
+    400000: group_0
+    400002: group_1
+    400004: group_10
+    400006: group_11
+    400008: group_12
+    400010: group_13
+    400012: group_14
+    400014: group_15
+    400016: group_16
+    400018: group_17
+    400020: group_18
+    400022: group_19
+    400024: group_2
+    400026: group_20
+    400028: group_21
+    400030: group_22
+    400032: group_23
+    400034: group_24
+    400036: group_24 1
+    400038: group_24 10
+    400040: group_24 100
+    400042: group_24 101
+    400044: group_24 102
+    400046: group_24 103
+    400048: group_24 104
+    400050: group_24 105
+    400052: group_24 106
+    400054: group_24 107
+    400056: group_24 108
+    400058: group_24 109
+    400060: group_24 11
+    400062: group_24 12
+    400064: group_24 13
+    400066: group_24 14
+    400068: group_24 15
+    400070: group_24 16
+    400072: group_24 17
+    400074: group_24 18
+    400076: group_24 19
+    400078: group_24 2
+    400080: group_24 20
+    400082: group_24 21
+    400084: group_24 22
+    400086: group_24 23
+    400088: group_24 24
+    400090: group_24 25
+    400092: group_24 26
+    400094: group_24 27
+    400096: group_24 28
+    400098: group_24 29
+    400100: group_24 3
+    400102: group_24 30
+    400104: group_24 31
+    400106: group_24 32
+    400108: group_24 33
+    400110: group_24 34
+    400112: group_24 35
+    400114: group_24 36
+    400116: group_24 37
+    400118: group_24 38
+    400120: group_24 39
+    400122: group_24 4
+    400124: group_24 40
+    400126: group_24 41
+    400128: group_24 42
+    400130: group_24 43
+    400132: group_24 44
+    400134: group_24 45
+    400136: group_24 46
+    400138: group_24 47
+    400140: group_24 48
+    400142: group_24 49
+    400144: group_24 5
+    400146: group_24 50
+    400148: group_24 51
+    400150: group_24 52
+    400152: group_24 53
+    400154: group_24 54
+    400156: group_24 55
+    400158: group_24 56
+    400160: group_24 57
+    400162: group_24 58
+    400164: group_24 59
+    400166: group_24 6
+    400168: group_24 60
+    400170: group_24 61
+    400172: group_24 62
+    400174: group_24 63
+    400176: group_24 64
+    400178: group_24 65
+    400180: group_24 66
+    400182: group_24 67
+    400184: group_24 68
+    400186: group_24 69
+    400188: group_24 7
+    400190: group_24 70
+    400192: group_24 71
+    400194: group_24 72
+    400196: group_24 73
+    400198: group_24 74
+    400200: group_24 75
+    400202: group_24 76
+    400204: group_24 77
+    400206: group_24 78
+    400208: group_24 79
+    400210: group_24 8
+    400212: group_24 80
+    400214: group_24 81
+    400216: group_24 82
+    400218: group_24 83
+    400220: group_24 84
+    400222: group_24 85
+    400224: group_24 86
+    400226: group_24 87
+    400228: group_24 88
+    400230: group_24 89
+    400232: group_24 9
+    400234: group_24 90
+    400236: group_24 91
+    400238: group_24 92
+    400240: group_24 93
+    400242: group_24 94
+    400244: group_24 95
+    400246: group_24 96
+    400248: group_24 97
+    400250: group_24 98
+    400252: group_24 99
+    400254: group_3
+    400256: group_4
+    400258: group_5
+    400260: group_6
+    400262: group_7
+    400264: group_8
+    400266: group_9
+    400268: ID227
+    400270: ID264
+    400272: ID268
+    400274: ID283
+    400276: ID287
+    400278: instance_0
+    400280: instance_1
+    400282: instance_10
+    400284: instance_100
+    400286: instance_101
+    400288: instance_102
+    400290: instance_103
+    400292: instance_104
+    400294: instance_105
+    400296: instance_106
+    400298: instance_107
+    400300: instance_108
+    400302: instance_109
+    400304: instance_11
+    400306: instance_12
+    400308: instance_13
+    400310: instance_14
+    400312: instance_15
+    400314: instance_16
+    400316: instance_17
+    400318: instance_18
+    400320: instance_19
+    400322: instance_2
+    400324: instance_20
+    400326: instance_21
+    400328: instance_22
+    400330: instance_23
+    400332: instance_24
+    400334: instance_25
+    400336: instance_26
+    400338: instance_27
+    400340: instance_28
+    400342: instance_29
+    400344: instance_3
+    400346: instance_30
+    400348: instance_31
+    400350: instance_32
+    400352: instance_33
+    400354: instance_34
+    400356: instance_35
+    400358: instance_36
+    400360: instance_37
+    400362: instance_38
+    400364: instance_39
+    400366: instance_4
+    400368: instance_40
+    400370: instance_41
+    400372: instance_42
+    400374: instance_43
+    400376: instance_44
+    400378: instance_45
+    400380: instance_46
+    400382: instance_47
+    400384: instance_48
+    400386: instance_49
+    400388: instance_5
+    400390: instance_50
+    400392: instance_51
+    400394: instance_52
+    400396: instance_53
+    400398: instance_54
+    400400: instance_55
+    400402: instance_56
+    400404: instance_57
+    400406: instance_58
+    400408: instance_59
+    400410: instance_6
+    400412: instance_60
+    400414: instance_61
+    400416: instance_62
+    400418: instance_63
+    400420: instance_64
+    400422: instance_65
+    400424: instance_66
+    400426: instance_67
+    400428: instance_68
+    400430: instance_69
+    400432: instance_7
+    400434: instance_70
+    400436: instance_71
+    400438: instance_72
+    400440: instance_73
+    400442: instance_74
+    400444: instance_75
+    400446: instance_76
+    400448: instance_77
+    400450: instance_78
+    400452: instance_79
+    400454: instance_8
+    400456: instance_80
+    400458: instance_81
+    400460: instance_82
+    400462: instance_83
+    400464: instance_84
+    400466: instance_85
+    400468: instance_86
+    400470: instance_87
+    400472: instance_88
+    400474: instance_89
+    400476: instance_9
+    400478: instance_90
+    400480: instance_91
+    400482: instance_92
+    400484: instance_93
+    400486: instance_94
+    400488: instance_95
+    400490: instance_96
+    400492: instance_97
+    400494: instance_98
+    400496: instance_99
+    400498: //RootNode
+    400500: skp_camera_Last_Saved_SketchUp_View
+    400502: Tack_Head
+    400504: Tack_Head 1
+    400506: Tack_Head 10
+    400508: Tack_Head 100
+    400510: Tack_Head 101
+    400512: Tack_Head 102
+    400514: Tack_Head 103
+    400516: Tack_Head 104
+    400518: Tack_Head 105
+    400520: Tack_Head 106
+    400522: Tack_Head 107
+    400524: Tack_Head 108
+    400526: Tack_Head 109
+    400528: Tack_Head 11
+    400530: Tack_Head 12
+    400532: Tack_Head 13
+    400534: Tack_Head 14
+    400536: Tack_Head 15
+    400538: Tack_Head 16
+    400540: Tack_Head 17
+    400542: Tack_Head 18
+    400544: Tack_Head 19
+    400546: Tack_Head 2
+    400548: Tack_Head 20
+    400550: Tack_Head 21
+    400552: Tack_Head 22
+    400554: Tack_Head 23
+    400556: Tack_Head 24
+    400558: Tack_Head 25
+    400560: Tack_Head 26
+    400562: Tack_Head 27
+    400564: Tack_Head 28
+    400566: Tack_Head 29
+    400568: Tack_Head 3
+    400570: Tack_Head 30
+    400572: Tack_Head 31
+    400574: Tack_Head 32
+    400576: Tack_Head 33
+    400578: Tack_Head 34
+    400580: Tack_Head 35
+    400582: Tack_Head 36
+    400584: Tack_Head 37
+    400586: Tack_Head 38
+    400588: Tack_Head 39
+    400590: Tack_Head 4
+    400592: Tack_Head 40
+    400594: Tack_Head 41
+    400596: Tack_Head 42
+    400598: Tack_Head 43
+    400600: Tack_Head 44
+    400602: Tack_Head 45
+    400604: Tack_Head 46
+    400606: Tack_Head 47
+    400608: Tack_Head 48
+    400610: Tack_Head 49
+    400612: Tack_Head 5
+    400614: Tack_Head 50
+    400616: Tack_Head 51
+    400618: Tack_Head 52
+    400620: Tack_Head 53
+    400622: Tack_Head 54
+    400624: Tack_Head 55
+    400626: Tack_Head 56
+    400628: Tack_Head 57
+    400630: Tack_Head 58
+    400632: Tack_Head 59
+    400634: Tack_Head 6
+    400636: Tack_Head 60
+    400638: Tack_Head 61
+    400640: Tack_Head 62
+    400642: Tack_Head 63
+    400644: Tack_Head 64
+    400646: Tack_Head 65
+    400648: Tack_Head 66
+    400650: Tack_Head 67
+    400652: Tack_Head 68
+    400654: Tack_Head 69
+    400656: Tack_Head 7
+    400658: Tack_Head 70
+    400660: Tack_Head 71
+    400662: Tack_Head 72
+    400664: Tack_Head 73
+    400666: Tack_Head 74
+    400668: Tack_Head 75
+    400670: Tack_Head 76
+    400672: Tack_Head 77
+    400674: Tack_Head 78
+    400676: Tack_Head 79
+    400678: Tack_Head 8
+    400680: Tack_Head 80
+    400682: Tack_Head 81
+    400684: Tack_Head 82
+    400686: Tack_Head 83
+    400688: Tack_Head 84
+    400690: Tack_Head 85
+    400692: Tack_Head 86
+    400694: Tack_Head 87
+    400696: Tack_Head 88
+    400698: Tack_Head 89
+    400700: Tack_Head 9
+    400702: Tack_Head 90
+    400704: Tack_Head 91
+    400706: Tack_Head 92
+    400708: Tack_Head 93
+    400710: Tack_Head 94
+    400712: Tack_Head 95
+    400714: Tack_Head 96
+    400716: Tack_Head 97
+    400718: Tack_Head 98
+    400720: Tack_Head 99
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Wood_Cherry1
+    2100002: Wood_Plywood_Grains
+    2100004: __0043_SaddleBrown_
+    2100006: __0046_Gold_
+    2300000: group_0
+    2300002: group_1
+    2300004: group_10
+    2300006: group_11
+    2300008: group_12
+    2300010: group_13
+    2300012: group_14
+    2300014: group_16
+    2300016: group_17
+    2300018: group_18
+    2300020: group_19
+    2300022: group_2
+    2300024: group_20
+    2300026: group_21
+    2300028: group_22
+    2300030: group_23
+    2300032: group_24
+    2300034: group_24 1
+    2300036: group_24 10
+    2300038: group_24 100
+    2300040: group_24 101
+    2300042: group_24 102
+    2300044: group_24 103
+    2300046: group_24 104
+    2300048: group_24 105
+    2300050: group_24 106
+    2300052: group_24 107
+    2300054: group_24 108
+    2300056: group_24 109
+    2300058: group_24 11
+    2300060: group_24 12
+    2300062: group_24 13
+    2300064: group_24 14
+    2300066: group_24 15
+    2300068: group_24 16
+    2300070: group_24 17
+    2300072: group_24 18
+    2300074: group_24 19
+    2300076: group_24 2
+    2300078: group_24 20
+    2300080: group_24 21
+    2300082: group_24 22
+    2300084: group_24 23
+    2300086: group_24 24
+    2300088: group_24 25
+    2300090: group_24 26
+    2300092: group_24 27
+    2300094: group_24 28
+    2300096: group_24 29
+    2300098: group_24 3
+    2300100: group_24 30
+    2300102: group_24 31
+    2300104: group_24 32
+    2300106: group_24 33
+    2300108: group_24 34
+    2300110: group_24 35
+    2300112: group_24 36
+    2300114: group_24 37
+    2300116: group_24 38
+    2300118: group_24 39
+    2300120: group_24 4
+    2300122: group_24 40
+    2300124: group_24 41
+    2300126: group_24 42
+    2300128: group_24 43
+    2300130: group_24 44
+    2300132: group_24 45
+    2300134: group_24 46
+    2300136: group_24 47
+    2300138: group_24 48
+    2300140: group_24 49
+    2300142: group_24 5
+    2300144: group_24 50
+    2300146: group_24 51
+    2300148: group_24 52
+    2300150: group_24 53
+    2300152: group_24 54
+    2300154: group_24 55
+    2300156: group_24 56
+    2300158: group_24 57
+    2300160: group_24 58
+    2300162: group_24 59
+    2300164: group_24 6
+    2300166: group_24 60
+    2300168: group_24 61
+    2300170: group_24 62
+    2300172: group_24 63
+    2300174: group_24 64
+    2300176: group_24 65
+    2300178: group_24 66
+    2300180: group_24 67
+    2300182: group_24 68
+    2300184: group_24 69
+    2300186: group_24 7
+    2300188: group_24 70
+    2300190: group_24 71
+    2300192: group_24 72
+    2300194: group_24 73
+    2300196: group_24 74
+    2300198: group_24 75
+    2300200: group_24 76
+    2300202: group_24 77
+    2300204: group_24 78
+    2300206: group_24 79
+    2300208: group_24 8
+    2300210: group_24 80
+    2300212: group_24 81
+    2300214: group_24 82
+    2300216: group_24 83
+    2300218: group_24 84
+    2300220: group_24 85
+    2300222: group_24 86
+    2300224: group_24 87
+    2300226: group_24 88
+    2300228: group_24 89
+    2300230: group_24 9
+    2300232: group_24 90
+    2300234: group_24 91
+    2300236: group_24 92
+    2300238: group_24 93
+    2300240: group_24 94
+    2300242: group_24 95
+    2300244: group_24 96
+    2300246: group_24 97
+    2300248: group_24 98
+    2300250: group_24 99
+    2300252: group_3
+    2300254: group_4
+    2300256: group_5
+    2300258: group_6
+    2300260: group_7
+    2300262: group_8
+    2300264: group_9
+    3300000: group_0
+    3300002: group_1
+    3300004: group_10
+    3300006: group_11
+    3300008: group_12
+    3300010: group_13
+    3300012: group_14
+    3300014: group_16
+    3300016: group_17
+    3300018: group_18
+    3300020: group_19
+    3300022: group_2
+    3300024: group_20
+    3300026: group_21
+    3300028: group_22
+    3300030: group_23
+    3300032: group_24
+    3300034: group_24 1
+    3300036: group_24 10
+    3300038: group_24 100
+    3300040: group_24 101
+    3300042: group_24 102
+    3300044: group_24 103
+    3300046: group_24 104
+    3300048: group_24 105
+    3300050: group_24 106
+    3300052: group_24 107
+    3300054: group_24 108
+    3300056: group_24 109
+    3300058: group_24 11
+    3300060: group_24 12
+    3300062: group_24 13
+    3300064: group_24 14
+    3300066: group_24 15
+    3300068: group_24 16
+    3300070: group_24 17
+    3300072: group_24 18
+    3300074: group_24 19
+    3300076: group_24 2
+    3300078: group_24 20
+    3300080: group_24 21
+    3300082: group_24 22
+    3300084: group_24 23
+    3300086: group_24 24
+    3300088: group_24 25
+    3300090: group_24 26
+    3300092: group_24 27
+    3300094: group_24 28
+    3300096: group_24 29
+    3300098: group_24 3
+    3300100: group_24 30
+    3300102: group_24 31
+    3300104: group_24 32
+    3300106: group_24 33
+    3300108: group_24 34
+    3300110: group_24 35
+    3300112: group_24 36
+    3300114: group_24 37
+    3300116: group_24 38
+    3300118: group_24 39
+    3300120: group_24 4
+    3300122: group_24 40
+    3300124: group_24 41
+    3300126: group_24 42
+    3300128: group_24 43
+    3300130: group_24 44
+    3300132: group_24 45
+    3300134: group_24 46
+    3300136: group_24 47
+    3300138: group_24 48
+    3300140: group_24 49
+    3300142: group_24 5
+    3300144: group_24 50
+    3300146: group_24 51
+    3300148: group_24 52
+    3300150: group_24 53
+    3300152: group_24 54
+    3300154: group_24 55
+    3300156: group_24 56
+    3300158: group_24 57
+    3300160: group_24 58
+    3300162: group_24 59
+    3300164: group_24 6
+    3300166: group_24 60
+    3300168: group_24 61
+    3300170: group_24 62
+    3300172: group_24 63
+    3300174: group_24 64
+    3300176: group_24 65
+    3300178: group_24 66
+    3300180: group_24 67
+    3300182: group_24 68
+    3300184: group_24 69
+    3300186: group_24 7
+    3300188: group_24 70
+    3300190: group_24 71
+    3300192: group_24 72
+    3300194: group_24 73
+    3300196: group_24 74
+    3300198: group_24 75
+    3300200: group_24 76
+    3300202: group_24 77
+    3300204: group_24 78
+    3300206: group_24 79
+    3300208: group_24 8
+    3300210: group_24 80
+    3300212: group_24 81
+    3300214: group_24 82
+    3300216: group_24 83
+    3300218: group_24 84
+    3300220: group_24 85
+    3300222: group_24 86
+    3300224: group_24 87
+    3300226: group_24 88
+    3300228: group_24 89
+    3300230: group_24 9
+    3300232: group_24 90
+    3300234: group_24 91
+    3300236: group_24 92
+    3300238: group_24 93
+    3300240: group_24 94
+    3300242: group_24 95
+    3300244: group_24 96
+    3300246: group_24 97
+    3300248: group_24 98
+    3300250: group_24 99
+    3300252: group_3
+    3300254: group_4
+    3300256: group_5
+    3300258: group_6
+    3300260: group_7
+    3300262: group_8
+    3300264: group_9
+    4300000: group_0
+    4300002: group_1
+    4300004: group_2
+    4300006: group_3
+    4300008: group_4
+    4300010: group_5
+    4300012: group_6
+    4300014: group_7
+    4300016: group_8
+    4300018: group_9
+    4300020: group_10
+    4300022: group_11
+    4300024: group_12
+    4300026: group_13
+    4300028: group_14
+    4300030: group_16
+    4300032: group_17
+    4300034: group_18
+    4300036: group_19
+    4300038: group_20
+    4300040: group_21
+    4300042: group_22
+    4300044: group_23
+    4300046: group_24
+    4300048: group_24
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,302 @@
+{
+     "livingroom": [{
+               "id": 1,
+               "name": "Reading Lamp",
+               "details": "Sage green or black pottery base; an old gold colored paper shade, fluted or plain, top and bottom bound with sage green tape ribbon, or guimpe.",
+               "type": "small"
+          },
+          {
+               "id": 2,
+               "name": "Fireplace",
+               "details": "A wood-box or basket; andirons and fire screen, hearth brush and tongs.",
+               "type": "small"
+          },
+          {
+               "id": 3,
+               "name": "Walls",
+               "details": "Ivory, cream or gray paper or paint.",
+               "type": "small"
+          },
+          {
+               "id": 4,
+               "name": "Sofa",
+               "details": "Upholstered in either sage green or brown upholsterer's velvet, blue, yellow, mauve satin or taffeta sofa cushions.",
+               "type": "small"
+          },
+          {
+               "id": 5,
+               "name": "Armchair",
+               "details": "Overstuffed chair in indefinite striped upholsterer's velvet in sage green;satin cushion in corn color.",
+               "type": "small"
+          },
+          {
+               "id": 6,
+               "name": "Desk",
+               "details": "A reproduction of a Sheraton, Hepplewhite, or Early English desk.",
+               "type": "small"
+          },
+          {
+               "id": 7,
+               "name": "Chair",
+               "details": "A reproduction of a Sheraton, Hepplewhite, or Early English desk.",
+               "type": "small"
+          },
+          {
+               "id": 8,
+               "name": "Bookcase",
+               "details": "As the living room serves as library also, open book shelves, painted the same as the woodwork, are essential, and more substantial than book cases.",
+               "type": "small"
+          },
+          {
+               "id": 9,
+               "name": "Carpet",
+               "details": "One large or several small Orientals, or a Wilton, Axminster, or velvet in two tone of brown or tan, or in plain colors.",
+               "type": "small"
+          },
+          {
+               "id": 10,
+               "name": "Tilt Table",
+               "details": "Tilt table for cards or tea, Mahogany or walnut.",
+               "type": "small"
+          },
+          {
+               "id": 11,
+               "name": "Foot Stool",
+               "details": "Small ottoman, covered in black and yellow needlework, or velvet same as sofa(browm).",
+               "type": "small"
+          },
+          {
+               "id": 12,
+               "name": "Waste Paper Basket",
+               "details": "Small black wicker next to desk.",
+               "type": "small"
+          },
+          {
+               "id": 13,
+               "name": "Waste Paper Basket",
+               "details": "Small black wicker next to desk.",
+               "type": "small"
+          },
+          {
+               "id": 14,
+               "name": "Table",
+               "details": "Drop-leaf--in mahogany, weathered oak, or walnut; Gateleg--in mahogany, weathered oak, or walnut;Modern Chippendale--mahogany, weathered oak, or walnut,or Sheraton type of table.",
+               "type": "small"
+          },
+          {
+               "id": 15,
+               "name": "A Clock",
+               "details": "in simple, plain design of wood, antique gilt, or leather.",
+               "type": "small"
+          },
+          {
+               "id": 16,
+               "name": "Floor",
+               "details": "Should be most sanitary. Tile, stone or linoleums are the most sanitary. Small black and white pattern or light blue and white are good.A well - filled painted wood floor of battleship gray or colonial buff may be used.",
+               "type": "small"
+          },
+          {
+               "id": 17,
+               "name": "Reading Lamp",
+               "details": "Sage green or black pottery base; an old gold colored paper shade, fluted or plain, top and bottom bound with sage green tape ribbon, or guimpe.",
+               "type": "small"
+          },
+          {
+               "id": 18,
+               "name": "Clothes hamper",
+               "details": "Unless chute to bin near wash tubs is provided. Hamper should have white smooth surface.Enameled metal or wood desirable.",
+               "type": "small"
+          },
+          {
+               "id": 19,
+               "name": "Towel hanger",
+               "details": "A nickel or enameled wood rack for each member of family to keep towels separate.",
+               "type": "small"
+          },
+          {
+               "id": 20,
+               "name": "Stool",
+               "details": "White enamel, preferably.",
+               "type": "small"
+          },
+          {
+               "id": 21,
+               "name": "Toilet",
+               "details": "porcelain, white enameled seat desirable.",
+               "type": "small"
+          },
+          {
+               "id": 22,
+               "name": "Tub",
+               "details": "Porcelain or enameled iron tub with hot and cold running water;shower with spray set at angle not to wet hair.",
+               "type": "small"
+          },
+          {
+               "id": 23,
+               "name": "Basin",
+               "details": "Porcelain or enamel with hot and cold water.",
+               "type": "small"
+          },
+          {
+               "id": 24,
+               "name": "Floor",
+               "details": "Should be most sanitary. Tile, stone or linoleums are the most sanitary.Small black and white pattern or light blue and white are good. A well - filled painted wood floor of battleship gray or colonial buff may be used.",
+               "type": "small"
+          },
+          {
+               "id": 25,
+               "name": "Walls",
+               "details": "A soft, misty, gray paint, tint, or plain paper.",
+               "type": "small"
+          },
+          {
+               "id": 26,
+               "name": "Floors",
+               "details": "Plain hardwood, with a rag or braided rug in sapphire blue--or softwood, entirely covered in taupe Jaspe linoleum.",
+               "type": "small"
+          },
+          {
+               "id": 27,
+               "name": "Crib",
+               "details": "White iron or wood, on ball bearing casters.",
+               "type": "small"
+          },
+          {
+               "id": 28,
+               "name": "Changing Table",
+               "details": "A Tall Chest of Drawers Painted cream or white, with plenty of drawers.",
+               "type": "small"
+          },
+          {
+               "id": 29,
+               "name": "Table",
+               "details": "Low nursery table or tall one which has had its legs cut.",
+               "type": "small"
+          },
+          {
+               "id": 30,
+               "name": "Two Chairs",
+               "details": "Low, with wooden seats, and painted to match the furniture.",
+               "type": "small"
+          },
+          {
+               "id": 31,
+               "name": "Walls",
+               "details": "Corn colored cross-bar paper.",
+               "type": "small"
+          },
+          {
+               "id": 32,
+               "name": "Bed",
+               "details": "Full size, or twin beds--In mahogany, walnut, ivory paint, or enamel. Box or wire spring. Mattress and pillows.",
+               "type": "small"
+          },
+          {
+               "id": 33,
+               "name": "High Boy",
+               "details": "high chest of drawers for man--In mahogany, walnut, or painted. This piece should conform with or match other furniture in room. Brushes, comb, box for odds and ends, clothes brush.",
+               "type": "small"
+          },
+          {
+               "id": 34,
+               "name": "Dressing Table",
+               "details": "with mirror hung over the chest of drawers. May be in mahogany, walnut, or painted. With toilet articles in silver or tortoise shell, or ivory; pin cushion, scent bottles. The mirror may be of Queen Anne type in antique gilt, to correspond with woods used in room.",
+               "type": "small"
+          },
+          {
+               "id": 35,
+               "name": "Desk and chair",
+               "details": "In either mahogany, walnut, or painted, to correspond with furniture. Supply with note paper, silver or brass ink-well, and blue feather pen.",
+               "type": "small"
+          },
+          {
+               "id": 36,
+               "name": "Chest",
+               "details": "In either cedar, mahogany, or cretonne-covered, and placed under a window or in a corner for storage of summer or winter clothes.",
+               "type": "small"
+          },
+          {
+               "id": 37,
+               "name": "Rugs",
+               "details": "Oriental in black, blues, or yellows, plain brown or tan carpet, made into a large rug, or wool braided, hooked, or heavy rag rugs, in black, blues, tans, browns. Small rugs should be placed near the bed, dressing table, and high-boy.",
+               "type": "small"
+          },
+          {
+               "id": 38,
+               "name": "Rugs",
+               "details": "Oriental in black, blues, or yellows, plain brown or tan carpet, made into a large rug, or wool braided, hooked, or heavy rag rugs, in black, blues, tans, browns. Small rugs should be placed near the bed, dressing table, and high-boy.",
+               "type": "small"
+          },
+          {
+               "id": 39,
+               "name": "Stove",
+               "details": "Coal, wood, gas, oil or electric. Height of all working surfaces depends upon height of woman who will work in kitchen. All working surfaces including top of range should be as near the same height as possible, at least 32 inches, or more, if worker is tall.     ",
+               "type": "small"
+          },
+
+          {
+               "id": 40,
+               "name": "Sink",
+               "details": "Sink should be large enough to accommodate both a washing and rinsing dish pan. Have large drain board on each side with raised edge or beading. It should either slope gradually toward sink or have sloping grooves. If only one drain board is provided, add an adjustable folding board. Bottom of sink should be at least 32 inches from floor. Sink should be placed under or near a window to insure coolness and view.",
+               "type": "small"
+          },
+          {
+               "id": 41,
+               "name": "Refrigerator",
+               "details": "A well insulated ice box, preferably white. Ice compartment should be at side or top. Straight easily cleaned drain pipe should attach to plumbing. If refrigerator is indoors a door for icing from the outside is desirable.",
+               "type": "small"
+          },
+          {
+               "id": 42,
+               "name": "Cupboard",
+               "details": "If there is no dining room pantry, a cupboard should be added for the china; if space permits, this should be added anyhow for less frequently used utensils and supplies.",
+
+               "type": "small"
+          },
+          {
+               "id": 43,
+               "name": "Cabinet",
+               "details": "White or colored enameled metal or natural wood finish with broad working shelf 32 inches from floor or higher according to height of worker. Shelves and bins for most commonly used supplies and utensils. If a cabinet with a good work shelf is not available an additional table near cabinet should be provided.",
+
+               "type": "small"
+
+
+          },
+           {
+               "id": 44,
+               "name": "Walls",
+               "details": "The walls should be painted, a cream or light gray. Some fairy tale friezes are attractive, and afford opportunities of introducing color. Child-study has taught that many and oft-repeated designs and subjects become meaningless, especially to older children.",
+
+               "type": "small"
+
+
+          },
+           {
+               "id": 45,
+               "name": "Wall Coverings",
+               "details": "Commercial oil cloth wall covering; or good oil enamel paint. Color--Light tones. On Southern exposure--pale gray, green or pale blue; on Northern exposure--buff walls with a deeper buff or tan woodwork are good. For very dark rooms--white."
+
+               "type": "small"
+
+
+          },
+           {
+               "id": 46,
+               "name": "Waste Paper",
+               "details": "Basket White or natural wicker."
+
+               "type": "small"
+
+
+          },
+           {
+               "id": 47,
+               "name": "Large Cushions",
+               "details": "for the floor--One each of blue, yellow, nile green and orange."
+
+               "type": "small"
+
+
+          }
+     ]
+}

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0d3ba9f6f1c684b379c54db527c6330f
+timeCreated: 1514070015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: faucet
+    100002: faucet 1
+    100004: faucet_1
+    100006: faucet_2
+    100008: Faucet_Part
+    100010: Faucet_Part 1
+    100012: ID113
+    100014: ID121
+    100016: ID146
+    100018: ID152
+    100020: ID170
+    100022: ID170 1
+    100024: ID178
+    100026: ID178 1
+    100028: ID186
+    100030: ID186 1
+    100032: ID194
+    100034: ID194 1
+    100036: ID202
+    100038: ID202 1
+    100040: ID210
+    100042: ID210 1
+    100044: ID218
+    100046: ID218 1
+    100048: ID226
+    100050: ID226 1
+    100052: ID234
+    100054: ID234 1
+    100056: ID242
+    100058: ID242 1
+    100060: ID250
+    100062: ID250 1
+    100064: ID258
+    100066: ID258 1
+    100068: ID266
+    100070: ID266 1
+    100072: ID279
+    100074: ID285
+    100076: ID293
+    100078: ID299
+    100080: ID305
+    100082: ID311
+    100084: ID317
+    100086: ID323
+    100088: ID336
+    100090: ID342
+    100092: ID348
+    100094: ID354
+    100096: ID360
+    100098: ID366
+    100100: ID372
+    100102: ID378
+    100104: ID384
+    100106: ID390
+    100108: ID403
+    100110: ID409
+    100112: ID442
+    100114: ID448
+    100116: ID456
+    100118: ID462
+    100120: ID475
+    100122: ID483
+    100124: ID491
+    100126: ID499
+    100128: ID507
+    100130: ID513
+    100132: ID519
+    100134: ID73
+    100136: ID73 1
+    100138: ID81
+    100140: ID81 1
+    100142: ID89
+    100144: ID89 1
+    100146: instance_0
+    100148: instance_1
+    100150: instance_2
+    100152: instance_3
+    100154: instance_4
+    100156: instance_5
+    100158: //RootNode
+    100160: skp_camera_Last_Saved_SketchUp_View
+    400000: faucet
+    400002: faucet 1
+    400004: faucet_1
+    400006: faucet_2
+    400008: Faucet_Part
+    400010: Faucet_Part 1
+    400012: ID113
+    400014: ID121
+    400016: ID146
+    400018: ID152
+    400020: ID170
+    400022: ID170 1
+    400024: ID178
+    400026: ID178 1
+    400028: ID186
+    400030: ID186 1
+    400032: ID194
+    400034: ID194 1
+    400036: ID202
+    400038: ID202 1
+    400040: ID210
+    400042: ID210 1
+    400044: ID218
+    400046: ID218 1
+    400048: ID226
+    400050: ID226 1
+    400052: ID234
+    400054: ID234 1
+    400056: ID242
+    400058: ID242 1
+    400060: ID250
+    400062: ID250 1
+    400064: ID258
+    400066: ID258 1
+    400068: ID266
+    400070: ID266 1
+    400072: ID279
+    400074: ID285
+    400076: ID293
+    400078: ID299
+    400080: ID305
+    400082: ID311
+    400084: ID317
+    400086: ID323
+    400088: ID336
+    400090: ID342
+    400092: ID348
+    400094: ID354
+    400096: ID360
+    400098: ID366
+    400100: ID372
+    400102: ID378
+    400104: ID384
+    400106: ID390
+    400108: ID403
+    400110: ID409
+    400112: ID442
+    400114: ID448
+    400116: ID456
+    400118: ID462
+    400120: ID475
+    400122: ID483
+    400124: ID491
+    400126: ID499
+    400128: ID507
+    400130: ID513
+    400132: ID519
+    400134: ID73
+    400136: ID73 1
+    400138: ID81
+    400140: ID81 1
+    400142: ID89
+    400144: ID89 1
+    400146: instance_0
+    400148: instance_1
+    400150: instance_2
+    400152: instance_3
+    400154: instance_4
+    400156: instance_5
+    400158: //RootNode
+    400160: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material
+    2100002: rust
+    2100004: Color_009
+    2100006: Metal1
+    2100008: chrome
+    2100010: chrome_11
+    2100012: handle
+    2100014: chrome_12
+    2100016: chrome_13
+    2100018: chrome_14
+    2100020: chrome_15
+    2100022: chrome_16
+    2100024: handletext
+    2100026: clear
+    2100028: iron
+    2100030: chrome_0
+    2100032: chrome_1
+    2100034: chrome_2
+    2100036: chrome_3
+    2100038: chrome_4
+    2100040: chrome_5
+    2100042: chrome_6
+    2100044: chrome_7
+    2100046: chrome_8
+    2100048: chrome_9
+    2100050: chrome_10
+    2300000: faucet
+    2300002: faucet 1
+    2300004: faucet_1
+    2300006: faucet_2
+    2300008: Faucet_Part
+    2300010: Faucet_Part 1
+    2300012: ID113
+    2300014: ID121
+    2300016: ID146
+    2300018: ID152
+    2300020: ID170
+    2300022: ID170 1
+    2300024: ID178
+    2300026: ID178 1
+    2300028: ID186
+    2300030: ID186 1
+    2300032: ID194
+    2300034: ID194 1
+    2300036: ID202
+    2300038: ID202 1
+    2300040: ID210
+    2300042: ID210 1
+    2300044: ID218
+    2300046: ID218 1
+    2300048: ID226
+    2300050: ID226 1
+    2300052: ID234
+    2300054: ID234 1
+    2300056: ID242
+    2300058: ID242 1
+    2300060: ID250
+    2300062: ID250 1
+    2300064: ID258
+    2300066: ID258 1
+    2300068: ID266
+    2300070: ID266 1
+    2300072: ID279
+    2300074: ID285
+    2300076: ID293
+    2300078: ID299
+    2300080: ID305
+    2300082: ID311
+    2300084: ID317
+    2300086: ID323
+    2300088: ID336
+    2300090: ID342
+    2300092: ID348
+    2300094: ID354
+    2300096: ID360
+    2300098: ID366
+    2300100: ID372
+    2300102: ID378
+    2300104: ID384
+    2300106: ID390
+    2300108: ID403
+    2300110: ID409
+    2300112: ID442
+    2300114: ID448
+    2300116: ID456
+    2300118: ID462
+    2300120: ID475
+    2300122: ID483
+    2300124: ID491
+    2300126: ID499
+    2300128: ID507
+    2300130: ID513
+    2300132: ID519
+    2300134: ID73
+    2300136: ID73 1
+    2300138: ID81
+    2300140: ID81 1
+    2300142: ID89
+    2300144: ID89 1
+    2300146: //RootNode
+    3300000: faucet
+    3300002: faucet 1
+    3300004: faucet_1
+    3300006: faucet_2
+    3300008: Faucet_Part
+    3300010: Faucet_Part 1
+    3300012: ID113
+    3300014: ID121
+    3300016: ID146
+    3300018: ID152
+    3300020: ID170
+    3300022: ID170 1
+    3300024: ID178
+    3300026: ID178 1
+    3300028: ID186
+    3300030: ID186 1
+    3300032: ID194
+    3300034: ID194 1
+    3300036: ID202
+    3300038: ID202 1
+    3300040: ID210
+    3300042: ID210 1
+    3300044: ID218
+    3300046: ID218 1
+    3300048: ID226
+    3300050: ID226 1
+    3300052: ID234
+    3300054: ID234 1
+    3300056: ID242
+    3300058: ID242 1
+    3300060: ID250
+    3300062: ID250 1
+    3300064: ID258
+    3300066: ID258 1
+    3300068: ID266
+    3300070: ID266 1
+    3300072: ID279
+    3300074: ID285
+    3300076: ID293
+    3300078: ID299
+    3300080: ID305
+    3300082: ID311
+    3300084: ID317
+    3300086: ID323
+    3300088: ID336
+    3300090: ID342
+    3300092: ID348
+    3300094: ID354
+    3300096: ID360
+    3300098: ID366
+    3300100: ID372
+    3300102: ID378
+    3300104: ID384
+    3300106: ID390
+    3300108: ID403
+    3300110: ID409
+    3300112: ID442
+    3300114: ID448
+    3300116: ID456
+    3300118: ID462
+    3300120: ID475
+    3300122: ID483
+    3300124: ID491
+    3300126: ID499
+    3300128: ID507
+    3300130: ID513
+    3300132: ID519
+    3300134: ID73
+    3300136: ID73 1
+    3300138: ID81
+    3300140: ID81 1
+    3300142: ID89
+    3300144: ID89 1
+    3300146: //RootNode
+    4300000: SketchUp
+    4300002: ID279
+    4300004: ID285
+    4300006: ID293
+    4300008: ID299
+    4300010: ID305
+    4300012: ID311
+    4300014: ID317
+    4300016: ID323
+    4300018: ID336
+    4300020: ID342
+    4300022: ID348
+    4300024: ID354
+    4300026: ID360
+    4300028: ID366
+    4300030: ID372
+    4300032: ID378
+    4300034: ID384
+    4300036: ID390
+    4300038: ID403
+    4300040: ID409
+    4300042: ID442
+    4300044: ID448
+    4300046: ID456
+    4300048: ID462
+    4300050: ID475
+    4300052: ID483
+    4300054: ID491
+    4300056: ID499
+    4300058: ID507
+    4300060: ID513
+    4300062: ID519
+    4300064: faucet
+    4300066: ID73
+    4300068: ID81
+    4300070: ID89
+    4300072: faucet_1
+    4300074: ID113
+    4300076: ID121
+    4300078: faucet_2
+    4300080: ID146
+    4300082: ID152
+    4300084: Faucet_Part
+    4300086: ID170
+    4300088: ID178
+    4300090: ID186
+    4300092: ID194
+    4300094: ID202
+    4300096: ID210
+    4300098: ID218
+    4300100: ID226
+    4300102: ID234
+    4300104: ID242
+    4300106: ID250
+    4300108: ID258
+    4300110: ID266
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

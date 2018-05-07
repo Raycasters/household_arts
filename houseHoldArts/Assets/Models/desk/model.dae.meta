@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: adac9c02816d54785bb68539ed59f0a0
+timeCreated: 1512672622
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component_4
+    100002: Component_4 1
+    100004: Component_4 2
+    100006: Component_4 3
+    100008: Component_5
+    100010: Component_5 1
+    100012: Component_6
+    100014: Component_6 1
+    100016: Component_6 2
+    100018: Component_6 3
+    100020: group_0
+    100022: group_1
+    100024: group_2
+    100026: group_3
+    100028: group_4
+    100030: group_5
+    100032: group_6
+    100034: ID104
+    100036: ID108
+    100038: ID112
+    100040: ID116
+    100042: ID151
+    100044: ID151 1
+    100046: ID151 2
+    100048: ID151 3
+    100050: ID178
+    100052: ID178 1
+    100054: ID188
+    100056: ID188 1
+    100058: ID198
+    100060: ID198 1
+    100062: ID208
+    100064: ID208 1
+    100066: ID21
+    100068: ID218
+    100070: ID218 1
+    100072: ID222
+    100074: ID222 1
+    100076: ID226
+    100078: ID226 1
+    100080: ID241
+    100082: ID251
+    100084: ID261
+    100086: ID277
+    100088: ID287
+    100090: ID297
+    100092: ID307
+    100094: ID31
+    100096: ID317
+    100098: ID327
+    100100: ID342
+    100102: ID352
+    100104: ID356
+    100106: ID360
+    100108: ID364
+    100110: ID385
+    100112: ID385 1
+    100114: ID385 2
+    100116: ID385 3
+    100118: ID395
+    100120: ID395 1
+    100122: ID395 2
+    100124: ID395 3
+    100126: ID405
+    100128: ID405 1
+    100130: ID405 2
+    100132: ID405 3
+    100134: ID41
+    100136: ID45
+    100138: ID49
+    100140: ID53
+    100142: ID57
+    100144: ID61
+    100146: ID65
+    100148: ID69
+    100150: ID84
+    100152: ID94
+    100154: instance_0
+    100156: instance_1
+    100158: instance_2
+    100160: instance_3
+    100162: instance_4
+    100164: instance_5
+    100166: instance_6
+    100168: instance_7
+    100170: instance_8
+    100172: instance_9
+    100174: //RootNode
+    100176: skp_camera_Last_Saved_SketchUp_View
+    100178: sphere
+    100180: sphere 1
+    100182: sphere 2
+    100184: sphere 3
+    400000: Component_4
+    400002: Component_4 1
+    400004: Component_4 2
+    400006: Component_4 3
+    400008: Component_5
+    400010: Component_5 1
+    400012: Component_6
+    400014: Component_6 1
+    400016: Component_6 2
+    400018: Component_6 3
+    400020: group_0
+    400022: group_1
+    400024: group_2
+    400026: group_3
+    400028: group_4
+    400030: group_5
+    400032: group_6
+    400034: ID104
+    400036: ID108
+    400038: ID112
+    400040: ID116
+    400042: ID151
+    400044: ID151 1
+    400046: ID151 2
+    400048: ID151 3
+    400050: ID178
+    400052: ID178 1
+    400054: ID188
+    400056: ID188 1
+    400058: ID198
+    400060: ID198 1
+    400062: ID208
+    400064: ID208 1
+    400066: ID21
+    400068: ID218
+    400070: ID218 1
+    400072: ID222
+    400074: ID222 1
+    400076: ID226
+    400078: ID226 1
+    400080: ID241
+    400082: ID251
+    400084: ID261
+    400086: ID277
+    400088: ID287
+    400090: ID297
+    400092: ID307
+    400094: ID31
+    400096: ID317
+    400098: ID327
+    400100: ID342
+    400102: ID352
+    400104: ID356
+    400106: ID360
+    400108: ID364
+    400110: ID385
+    400112: ID385 1
+    400114: ID385 2
+    400116: ID385 3
+    400118: ID395
+    400120: ID395 1
+    400122: ID395 2
+    400124: ID395 3
+    400126: ID405
+    400128: ID405 1
+    400130: ID405 2
+    400132: ID405 3
+    400134: ID41
+    400136: ID45
+    400138: ID49
+    400140: ID53
+    400142: ID57
+    400144: ID61
+    400146: ID65
+    400148: ID69
+    400150: ID84
+    400152: ID94
+    400154: instance_0
+    400156: instance_1
+    400158: instance_2
+    400160: instance_3
+    400162: instance_4
+    400164: instance_5
+    400166: instance_6
+    400168: instance_7
+    400170: instance_8
+    400172: instance_9
+    400174: //RootNode
+    400176: skp_camera_Last_Saved_SketchUp_View
+    400178: sphere
+    400180: sphere 1
+    400182: sphere 2
+    400184: sphere 3
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: wood_cherry_dark
+    2100002: __Metal_Aluminum_Anodized_
+    2100004: __Wood_Cherry_Original_
+    2100006: wood_cherry_dark_0
+    2300000: Component_4
+    2300002: Component_4 1
+    2300004: Component_4 2
+    2300006: Component_4 3
+    2300008: Component_5
+    2300010: Component_5 1
+    2300012: Component_6
+    2300014: Component_6 1
+    2300016: Component_6 2
+    2300018: Component_6 3
+    2300020: group_0
+    2300022: group_1
+    2300024: group_3
+    2300026: group_5
+    2300028: ID151
+    2300030: ID151 1
+    2300032: ID151 2
+    2300034: ID151 3
+    2300036: ID178
+    2300038: ID178 1
+    2300040: ID188
+    2300042: ID188 1
+    2300044: ID198
+    2300046: ID198 1
+    2300048: ID208
+    2300050: ID208 1
+    2300052: ID21
+    2300054: ID241
+    2300056: ID251
+    2300058: ID277
+    2300060: ID287
+    2300062: ID297
+    2300064: ID307
+    2300066: ID31
+    2300068: ID317
+    2300070: ID327
+    2300072: ID342
+    2300074: ID385
+    2300076: ID385 1
+    2300078: ID385 2
+    2300080: ID385 3
+    2300082: ID395
+    2300084: ID395 1
+    2300086: ID395 2
+    2300088: ID395 3
+    2300090: ID84
+    2300092: ID94
+    2300094: sphere
+    2300096: sphere 1
+    2300098: sphere 2
+    2300100: sphere 3
+    3300000: Component_4
+    3300002: Component_4 1
+    3300004: Component_4 2
+    3300006: Component_4 3
+    3300008: Component_5
+    3300010: Component_5 1
+    3300012: Component_6
+    3300014: Component_6 1
+    3300016: Component_6 2
+    3300018: Component_6 3
+    3300020: group_0
+    3300022: group_1
+    3300024: group_3
+    3300026: group_5
+    3300028: ID151
+    3300030: ID151 1
+    3300032: ID151 2
+    3300034: ID151 3
+    3300036: ID178
+    3300038: ID178 1
+    3300040: ID188
+    3300042: ID188 1
+    3300044: ID198
+    3300046: ID198 1
+    3300048: ID208
+    3300050: ID208 1
+    3300052: ID21
+    3300054: ID241
+    3300056: ID251
+    3300058: ID277
+    3300060: ID287
+    3300062: ID297
+    3300064: ID307
+    3300066: ID31
+    3300068: ID317
+    3300070: ID327
+    3300072: ID342
+    3300074: ID385
+    3300076: ID385 1
+    3300078: ID385 2
+    3300080: ID385 3
+    3300082: ID395
+    3300084: ID395 1
+    3300086: ID395 2
+    3300088: ID395 3
+    3300090: ID84
+    3300092: ID94
+    3300094: sphere
+    3300096: sphere 1
+    3300098: sphere 2
+    3300100: sphere 3
+    4300000: group_0
+    4300002: ID21
+    4300004: ID31
+    4300006: group_1
+    4300008: ID84
+    4300010: ID94
+    4300012: Component_4
+    4300014: ID151
+    4300016: sphere
+    4300018: Component_5
+    4300020: ID178
+    4300022: ID188
+    4300024: ID198
+    4300026: ID208
+    4300028: group_3
+    4300030: ID241
+    4300032: ID251
+    4300034: group_5
+    4300036: ID277
+    4300038: ID287
+    4300040: ID297
+    4300042: ID307
+    4300044: ID317
+    4300046: ID327
+    4300048: ID342
+    4300050: Component_6
+    4300052: ID385
+    4300054: ID395
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

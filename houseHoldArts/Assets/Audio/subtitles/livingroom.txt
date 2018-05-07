@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:04,319
+This is the living room. According to our
+
+2
+00:00:02,460 --> 00:00:07,140
+plan book, it is probably the most
+
+3
+00:00:04,319 --> 00:00:09,360
+important room in the house. It says  
+
+4
+00:00:07,140 --> 00:00:11,880
+"The first requisite of such a room is that a
+
+5
+00:00:09,360 --> 00:00:14,280
+shall be restful. Avoid using rocking chairs,
+
+6
+00:00:11,880 --> 00:00:16,049
+use little bric-a-brac, nothing which
+
+7
+00:00:14,280 --> 00:00:17,910
+does not contribute to the necessity
+
+8
+00:00:16,049 --> 00:00:20,390
+nd beauty of the room should be allowed."
+
+9

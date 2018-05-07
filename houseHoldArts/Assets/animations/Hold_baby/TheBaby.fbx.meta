@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: 4fbae663db6bb488286bc426863cd4a4
+timeCreated: 1518497301
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: sleepingBaby_v001:eyeball
+    100002: sleepingBaby_v001:group1
+    100004: sleepingBaby_v001:iris
+    100006: sleepingBaby_v001:lips
+    100008: sleepingBaby_v001:mixamorig:Head
+    100010: sleepingBaby_v001:mixamorig:HeadTop_End
+    100012: sleepingBaby_v001:mixamorig:Hips
+    100014: sleepingBaby_v001:mixamorig:LeftArm
+    100016: sleepingBaby_v001:mixamorig:LeftFoot
+    100018: sleepingBaby_v001:mixamorig:LeftForeArm
+    100020: sleepingBaby_v001:mixamorig:LeftHand
+    100022: sleepingBaby_v001:mixamorig:LeftHandIndex1
+    100024: sleepingBaby_v001:mixamorig:LeftHandIndex2
+    100026: sleepingBaby_v001:mixamorig:LeftHandIndex3
+    100028: sleepingBaby_v001:mixamorig:LeftHandIndex4
+    100030: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+    100032: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+    100034: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+    100036: sleepingBaby_v001:mixamorig:LeftHandMiddle4
+    100038: sleepingBaby_v001:mixamorig:LeftHandPinky1
+    100040: sleepingBaby_v001:mixamorig:LeftHandPinky2
+    100042: sleepingBaby_v001:mixamorig:LeftHandPinky3
+    100044: sleepingBaby_v001:mixamorig:LeftHandPinky4
+    100046: sleepingBaby_v001:mixamorig:LeftHandRing1
+    100048: sleepingBaby_v001:mixamorig:LeftHandRing2
+    100050: sleepingBaby_v001:mixamorig:LeftHandRing3
+    100052: sleepingBaby_v001:mixamorig:LeftHandRing4
+    100054: sleepingBaby_v001:mixamorig:LeftHandThumb1
+    100056: sleepingBaby_v001:mixamorig:LeftHandThumb2
+    100058: sleepingBaby_v001:mixamorig:LeftHandThumb3
+    100060: sleepingBaby_v001:mixamorig:LeftHandThumb4
+    100062: sleepingBaby_v001:mixamorig:LeftLeg
+    100064: sleepingBaby_v001:mixamorig:LeftShoulder
+    100066: sleepingBaby_v001:mixamorig:LeftToe_End
+    100068: sleepingBaby_v001:mixamorig:LeftToeBase
+    100070: sleepingBaby_v001:mixamorig:LeftUpLeg
+    100072: sleepingBaby_v001:mixamorig:Neck
+    100074: sleepingBaby_v001:mixamorig:RightArm
+    100076: sleepingBaby_v001:mixamorig:RightFoot
+    100078: sleepingBaby_v001:mixamorig:RightForeArm
+    100080: sleepingBaby_v001:mixamorig:RightHand
+    100082: sleepingBaby_v001:mixamorig:RightHandIndex1
+    100084: sleepingBaby_v001:mixamorig:RightHandIndex2
+    100086: sleepingBaby_v001:mixamorig:RightHandIndex3
+    100088: sleepingBaby_v001:mixamorig:RightHandIndex4
+    100090: sleepingBaby_v001:mixamorig:RightHandMiddle1
+    100092: sleepingBaby_v001:mixamorig:RightHandMiddle2
+    100094: sleepingBaby_v001:mixamorig:RightHandMiddle3
+    100096: sleepingBaby_v001:mixamorig:RightHandMiddle4
+    100098: sleepingBaby_v001:mixamorig:RightHandPinky1
+    100100: sleepingBaby_v001:mixamorig:RightHandPinky2
+    100102: sleepingBaby_v001:mixamorig:RightHandPinky3
+    100104: sleepingBaby_v001:mixamorig:RightHandPinky4
+    100106: sleepingBaby_v001:mixamorig:RightHandRing1
+    100108: sleepingBaby_v001:mixamorig:RightHandRing2
+    100110: sleepingBaby_v001:mixamorig:RightHandRing3
+    100112: sleepingBaby_v001:mixamorig:RightHandRing4
+    100114: sleepingBaby_v001:mixamorig:RightHandThumb1
+    100116: sleepingBaby_v001:mixamorig:RightHandThumb2
+    100118: sleepingBaby_v001:mixamorig:RightHandThumb3
+    100120: sleepingBaby_v001:mixamorig:RightHandThumb4
+    100122: sleepingBaby_v001:mixamorig:RightLeg
+    100124: sleepingBaby_v001:mixamorig:RightShoulder
+    100126: sleepingBaby_v001:mixamorig:RightToe_End
+    100128: sleepingBaby_v001:mixamorig:RightToeBase
+    100130: sleepingBaby_v001:mixamorig:RightUpLeg
+    100132: sleepingBaby_v001:mixamorig:Spine
+    100134: sleepingBaby_v001:mixamorig:Spine1
+    100136: sleepingBaby_v001:mixamorig:Spine2
+    100138: sleepingBaby_v001:pupil
+    100140: sleepingBaby_v001:skin
+    100142: //RootNode
+    400000: sleepingBaby_v001:eyeball
+    400002: sleepingBaby_v001:group1
+    400004: sleepingBaby_v001:iris
+    400006: sleepingBaby_v001:lips
+    400008: sleepingBaby_v001:mixamorig:Head
+    400010: sleepingBaby_v001:mixamorig:HeadTop_End
+    400012: sleepingBaby_v001:mixamorig:Hips
+    400014: sleepingBaby_v001:mixamorig:LeftArm
+    400016: sleepingBaby_v001:mixamorig:LeftFoot
+    400018: sleepingBaby_v001:mixamorig:LeftForeArm
+    400020: sleepingBaby_v001:mixamorig:LeftHand
+    400022: sleepingBaby_v001:mixamorig:LeftHandIndex1
+    400024: sleepingBaby_v001:mixamorig:LeftHandIndex2
+    400026: sleepingBaby_v001:mixamorig:LeftHandIndex3
+    400028: sleepingBaby_v001:mixamorig:LeftHandIndex4
+    400030: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+    400032: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+    400034: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+    400036: sleepingBaby_v001:mixamorig:LeftHandMiddle4
+    400038: sleepingBaby_v001:mixamorig:LeftHandPinky1
+    400040: sleepingBaby_v001:mixamorig:LeftHandPinky2
+    400042: sleepingBaby_v001:mixamorig:LeftHandPinky3
+    400044: sleepingBaby_v001:mixamorig:LeftHandPinky4
+    400046: sleepingBaby_v001:mixamorig:LeftHandRing1
+    400048: sleepingBaby_v001:mixamorig:LeftHandRing2
+    400050: sleepingBaby_v001:mixamorig:LeftHandRing3
+    400052: sleepingBaby_v001:mixamorig:LeftHandRing4
+    400054: sleepingBaby_v001:mixamorig:LeftHandThumb1
+    400056: sleepingBaby_v001:mixamorig:LeftHandThumb2
+    400058: sleepingBaby_v001:mixamorig:LeftHandThumb3
+    400060: sleepingBaby_v001:mixamorig:LeftHandThumb4
+    400062: sleepingBaby_v001:mixamorig:LeftLeg
+    400064: sleepingBaby_v001:mixamorig:LeftShoulder
+    400066: sleepingBaby_v001:mixamorig:LeftToe_End
+    400068: sleepingBaby_v001:mixamorig:LeftToeBase
+    400070: sleepingBaby_v001:mixamorig:LeftUpLeg
+    400072: sleepingBaby_v001:mixamorig:Neck
+    400074: sleepingBaby_v001:mixamorig:RightArm
+    400076: sleepingBaby_v001:mixamorig:RightFoot
+    400078: sleepingBaby_v001:mixamorig:RightForeArm
+    400080: sleepingBaby_v001:mixamorig:RightHand
+    400082: sleepingBaby_v001:mixamorig:RightHandIndex1
+    400084: sleepingBaby_v001:mixamorig:RightHandIndex2
+    400086: sleepingBaby_v001:mixamorig:RightHandIndex3
+    400088: sleepingBaby_v001:mixamorig:RightHandIndex4
+    400090: sleepingBaby_v001:mixamorig:RightHandMiddle1
+    400092: sleepingBaby_v001:mixamorig:RightHandMiddle2
+    400094: sleepingBaby_v001:mixamorig:RightHandMiddle3
+    400096: sleepingBaby_v001:mixamorig:RightHandMiddle4
+    400098: sleepingBaby_v001:mixamorig:RightHandPinky1
+    400100: sleepingBaby_v001:mixamorig:RightHandPinky2
+    400102: sleepingBaby_v001:mixamorig:RightHandPinky3
+    400104: sleepingBaby_v001:mixamorig:RightHandPinky4
+    400106: sleepingBaby_v001:mixamorig:RightHandRing1
+    400108: sleepingBaby_v001:mixamorig:RightHandRing2
+    400110: sleepingBaby_v001:mixamorig:RightHandRing3
+    400112: sleepingBaby_v001:mixamorig:RightHandRing4
+    400114: sleepingBaby_v001:mixamorig:RightHandThumb1
+    400116: sleepingBaby_v001:mixamorig:RightHandThumb2
+    400118: sleepingBaby_v001:mixamorig:RightHandThumb3
+    400120: sleepingBaby_v001:mixamorig:RightHandThumb4
+    400122: sleepingBaby_v001:mixamorig:RightLeg
+    400124: sleepingBaby_v001:mixamorig:RightShoulder
+    400126: sleepingBaby_v001:mixamorig:RightToe_End
+    400128: sleepingBaby_v001:mixamorig:RightToeBase
+    400130: sleepingBaby_v001:mixamorig:RightUpLeg
+    400132: sleepingBaby_v001:mixamorig:Spine
+    400134: sleepingBaby_v001:mixamorig:Spine1
+    400136: sleepingBaby_v001:mixamorig:Spine2
+    400138: sleepingBaby_v001:pupil
+    400140: sleepingBaby_v001:skin
+    400142: //RootNode
+    2100000: lambert1
+    4300000: sleepingBaby_v001:skin
+    4300002: sleepingBaby_v001:pupil
+    4300004: sleepingBaby_v001:lips
+    4300006: sleepingBaby_v001:iris
+    4300008: sleepingBaby_v001:eyeball
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: sleepingBaby_v001:eyeball
+    13700002: sleepingBaby_v001:iris
+    13700004: sleepingBaby_v001:lips
+    13700006: sleepingBaby_v001:pupil
+    13700008: sleepingBaby_v001:skin
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: sleepingBaby_v001:mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: sleepingBaby_v001:mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: TheBaby(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:group1
+      parentName: TheBaby(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:eyeball
+      parentName: sleepingBaby_v001:group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:iris
+      parentName: sleepingBaby_v001:group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:lips
+      parentName: sleepingBaby_v001:group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:pupil
+      parentName: sleepingBaby_v001:group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:skin
+      parentName: sleepingBaby_v001:group1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:Hips
+      parentName: TheBaby(Clone)
+      position: {x: 0, y: 0.23578393, z: -0.0015317351}
+      rotation: {x: 0.00000003783498, y: -0.000000011641532, z: -0.000000011641532,
+        w: 1}
+      scale: {x: 0.35098335, y: 0.35098338, z: 0.35098344}
+    - name: sleepingBaby_v001:mixamorig:RightUpLeg
+      parentName: sleepingBaby_v001:mixamorig:Hips
+      position: {x: 0.08145881, y: -0.04994194, z: 0.005029297}
+      rotation: {x: 0.00004320211, y: -0.020399123, z: 0.9997897, w: 0.0021168138}
+      scale: {x: 1.0000008, y: 1.000001, z: 0.9999998}
+    - name: sleepingBaby_v001:mixamorig:RightLeg
+      parentName: sleepingBaby_v001:mixamorig:RightUpLeg
+      position: {x: 4.0519515e-11, y: 0.2912374, z: -2.773052e-10}
+      rotation: {x: -0.049993664, y: -0.0012706572, z: 0.025376704, w: 0.99842626}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: sleepingBaby_v001:mixamorig:RightFoot
+      parentName: sleepingBaby_v001:mixamorig:RightLeg
+      position: {x: 4.773559e-10, y: 0.24314979, z: 0.000000001922882}
+      rotation: {x: 0.526898, y: 0.004535911, z: -0.0028119518, w: 0.84991175}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000008}
+    - name: sleepingBaby_v001:mixamorig:RightToeBase
+      parentName: sleepingBaby_v001:mixamorig:RightFoot
+      position: {x: 3.597929e-11, y: 0.12767065, z: -2.778198e-10}
+      rotation: {x: 0.29983234, y: 0.020292865, z: -0.0063794805, w: 0.9537547}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000012}
+    - name: sleepingBaby_v001:mixamorig:RightToe_End
+      parentName: sleepingBaby_v001:mixamorig:RightToeBase
+      position: {x: -8.3988094e-11, y: 0.05079631, z: -1.2459012e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftUpLeg
+      parentName: sleepingBaby_v001:mixamorig:Hips
+      position: {x: -0.08145881, y: -0.04994194, z: 0.0036988829}
+      rotation: {x: -0.000047157162, y: -0.022273285, z: 0.9997497, w: -0.0021164045}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000006}
+    - name: sleepingBaby_v001:mixamorig:LeftLeg
+      parentName: sleepingBaby_v001:mixamorig:LeftUpLeg
+      position: {x: -4.124347e-11, y: 0.29128405, z: -2.9957448e-10}
+      rotation: {x: -0.045455813, y: 0.001155166, z: -0.025378954, w: 0.99864334}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000002}
+    - name: sleepingBaby_v001:mixamorig:LeftFoot
+      parentName: sleepingBaby_v001:mixamorig:LeftLeg
+      position: {x: 1.6511367e-10, y: 0.24296921, z: -0.0000000011236622}
+      rotation: {x: 0.5205857, y: -0.0045971274, z: 0.0028030141, w: 0.8537924}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000002}
+    - name: sleepingBaby_v001:mixamorig:LeftToeBase
+      parentName: sleepingBaby_v001:mixamorig:LeftFoot
+      position: {x: -8.67163e-11, y: 0.12593843, z: -0.0000000028854725}
+      rotation: {x: 0.30434632, y: -0.019789692, z: 0.0063243504, w: 0.9523349}
+      scale: {x: 1.0000012, y: 1.0000004, z: 1.0000012}
+    - name: sleepingBaby_v001:mixamorig:LeftToe_End
+      parentName: sleepingBaby_v001:mixamorig:LeftToeBase
+      position: {x: -2.8930172e-11, y: 0.05075499, z: -8.107132e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:Spine
+      parentName: sleepingBaby_v001:mixamorig:Hips
+      position: {x: -0, y: 0.08979378, z: -0.00748291}
+      rotation: {x: -0.041558955, y: 0.000000023746761, z: -0.000000010663856, w: 0.9991361}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: sleepingBaby_v001:mixamorig:Spine1
+      parentName: sleepingBaby_v001:mixamorig:Spine
+      position: {x: -0, y: 0.105122484, z: 3.836419e-10}
+      rotation: {x: 0.00000019744036, y: -1.7763566e-15, z: -2.7755571e-15, w: 1}
+      scale: {x: 1.0000007, y: 1, z: 1.0000001}
+    - name: sleepingBaby_v001:mixamorig:Spine2
+      parentName: sleepingBaby_v001:mixamorig:Spine1
+      position: {x: -0, y: 0.12014002, z: -3.6688105e-10}
+      rotation: {x: -0, y: -0, z: -7.279194e-23, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
+    - name: sleepingBaby_v001:mixamorig:RightShoulder
+      parentName: sleepingBaby_v001:mixamorig:Spine2
+      position: {x: 0.04796153, y: 0.12128609, z: -0.0012776467}
+      rotation: {x: -0.55963266, y: -0.42780602, z: 0.5750889, w: -0.41601196}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000008}
+    - name: sleepingBaby_v001:mixamorig:RightArm
+      parentName: sleepingBaby_v001:mixamorig:RightShoulder
+      position: {x: -1.14933695e-10, y: 0.09961939, z: -0.0000000013391342}
+      rotation: {x: -0.11687845, y: 0.00094161916, z: -0.00800088, w: 0.9931135}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1.0000011}
+    - name: sleepingBaby_v001:mixamorig:RightForeArm
+      parentName: sleepingBaby_v001:mixamorig:RightArm
+      position: {x: -8.4818905e-12, y: 0.18937598, z: 4.917905e-10}
+      rotation: {x: 0.024862448, y: -0.0780865, z: -0.04881555, w: -0.9954403}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000011}
+    - name: sleepingBaby_v001:mixamorig:RightHand
+      parentName: sleepingBaby_v001:mixamorig:RightForeArm
+      position: {x: 0.0000000041227604, y: 0.19370592, z: 7.69063e-12}
+      rotation: {x: -0.07917196, y: 0.056415845, z: -0.02015039, w: 0.9950593}
+      scale: {x: 0.9999996, y: 0.99999905, z: 0.99999905}
+    - name: sleepingBaby_v001:mixamorig:RightHandPinky1
+      parentName: sleepingBaby_v001:mixamorig:RightHand
+      position: {x: 0.036785405, y: 0.09747509, z: 0.002533844}
+      rotation: {x: -0.00824204, y: 0.0002840161, z: -0.034464013, w: 0.9993719}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000008}
+    - name: sleepingBaby_v001:mixamorig:RightHandPinky2
+      parentName: sleepingBaby_v001:mixamorig:RightHandPinky1
+      position: {x: 0.000029235654, y: 0.02388996, z: -4.8937493e-11}
+      rotation: {x: 0.041134227, y: 0.00000043457834, z: -0.00020534331, w: 0.9991536}
+      scale: {x: 0.9999995, y: 0.99999946, z: 0.9999989}
+    - name: sleepingBaby_v001:mixamorig:RightHandPinky3
+      parentName: sleepingBaby_v001:mixamorig:RightHandPinky2
+      position: {x: -0.00002279392, y: 0.0183747, z: 6.500429e-11}
+      rotation: {x: 0.037702594, y: -0.00006954542, z: 0.0002628167, w: 0.999289}
+      scale: {x: 0.9999997, y: 1.0000005, z: 1.0000004}
+    - name: sleepingBaby_v001:mixamorig:RightHandPinky4
+      parentName: sleepingBaby_v001:mixamorig:RightHandPinky3
+      position: {x: -0.00000644056, y: 0.013628055, z: 1.6707886e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:RightHandRing1
+      parentName: sleepingBaby_v001:mixamorig:RightHand
+      position: {x: 0.0111222835, y: 0.11417908, z: -0.0008336323}
+      rotation: {x: 0.022417126, y: -0.00023379919, z: -0.010427876, w: 0.9996943}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000007}
+    - name: sleepingBaby_v001:mixamorig:RightHandRing2
+      parentName: sleepingBaby_v001:mixamorig:RightHandRing1
+      position: {x: 0.0000668354, y: 0.021639232, z: 9.6286354e-11}
+      rotation: {x: 0.013071989, y: -0.00000005640321, z: 0.00000032291874, w: 0.9999146}
+      scale: {x: 0.9999994, y: 0.99999917, z: 0.99999905}
+    - name: sleepingBaby_v001:mixamorig:RightHandRing3
+      parentName: sleepingBaby_v001:mixamorig:RightHandRing2
+      position: {x: -0.000011497666, y: 0.021252379, z: 1.8378528e-10}
+      rotation: {x: 0.04023524, y: -0.000055561377, z: -0.00060638576, w: 0.9991901}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: sleepingBaby_v001:mixamorig:RightHandRing4
+      parentName: sleepingBaby_v001:mixamorig:RightHandRing3
+      position: {x: -0.000055337867, y: 0.015612923, z: 4.3137334e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:RightHandMiddle1
+      parentName: sleepingBaby_v001:mixamorig:RightHand
+      position: {x: -0.0099389795, y: 0.11723847, z: -0.001916605}
+      rotation: {x: -0.030096594, y: 0.00018827242, z: -0.006251915, w: 0.99952745}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    - name: sleepingBaby_v001:mixamorig:RightHandMiddle2
+      parentName: sleepingBaby_v001:mixamorig:RightHandMiddle1
+      position: {x: -0.000049539165, y: 0.022938278, z: -5.9805927e-10}
+      rotation: {x: 0.04115713, y: -0.0000084063495, z: 0.0001782026, w: 0.9991527}
+      scale: {x: 1.0000001, y: 0.99999934, z: 0.99999964}
+    - name: sleepingBaby_v001:mixamorig:RightHandMiddle3
+      parentName: sleepingBaby_v001:mixamorig:RightHandMiddle2
+      position: {x: 0.0000015034041, y: 0.022098975, z: -1.7193244e-10}
+      rotation: {x: 0.03913887, y: 0.00007533227, z: 0.00080054253, w: 0.9992335}
+      scale: {x: 1, y: 0.99999994, z: 1.0000004}
+    - name: sleepingBaby_v001:mixamorig:RightHandMiddle4
+      parentName: sleepingBaby_v001:mixamorig:RightHandMiddle3
+      position: {x: 0.00004803238, y: 0.016521381, z: -2.5655708e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:RightHandIndex1
+      parentName: sleepingBaby_v001:mixamorig:RightHand
+      position: {x: -0.037968714, y: 0.10535432, z: 0.0026972573}
+      rotation: {x: 0.004736967, y: 0.00023925674, z: 0.050416507, w: 0.998717}
+      scale: {x: 1.0000005, y: 0.9999998, z: 1.0000001}
+    - name: sleepingBaby_v001:mixamorig:RightHandIndex2
+      parentName: sleepingBaby_v001:mixamorig:RightHandIndex1
+      position: {x: -0.00007734421, y: 0.024446478, z: 2.1681146e-10}
+      rotation: {x: 0.031983886, y: -0.00000031125091, z: 0.00000011508655, w: 0.9994885}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: sleepingBaby_v001:mixamorig:RightHandIndex3
+      parentName: sleepingBaby_v001:mixamorig:RightHandIndex2
+      position: {x: 0.000013633222, y: 0.02286798, z: 3.1173839e-10}
+      rotation: {x: 0.040354535, y: 0.000051251125, z: 0.00055742153, w: 0.9991853}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000012}
+    - name: sleepingBaby_v001:mixamorig:RightHandIndex4
+      parentName: sleepingBaby_v001:mixamorig:RightHandIndex3
+      position: {x: 0.00006370821, y: 0.01812638, z: -4.909765e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:RightHandThumb1
+      parentName: sleepingBaby_v001:mixamorig:RightHand
+      position: {x: -0.02654862, y: 0.036858156, z: 0.008535218}
+      rotation: {x: -0.0057551637, y: -0.012200039, z: 0.36291263, w: 0.93172556}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.9999994}
+    - name: sleepingBaby_v001:mixamorig:RightHandThumb2
+      parentName: sleepingBaby_v001:mixamorig:RightHandThumb1
+      position: {x: -0.0011041382, y: 0.036958683, z: 6.5885214e-11}
+      rotation: {x: 0.007716677, y: -0.00000006705522, z: 0.00000030221415, w: 0.99997026}
+      scale: {x: 1.0000013, y: 1.000001, z: 1.0000011}
+    - name: sleepingBaby_v001:mixamorig:RightHandThumb3
+      parentName: sleepingBaby_v001:mixamorig:RightHandThumb2
+      position: {x: -0.0021906814, y: 0.032006264, z: 1.9102983e-10}
+      rotation: {x: 0.024442725, y: 0.0019568151, z: 0.07151593, w: 0.9971381}
+      scale: {x: 1.0000007, y: 0.99999994, z: 1.0000004}
+    - name: sleepingBaby_v001:mixamorig:RightHandThumb4
+      parentName: sleepingBaby_v001:mixamorig:RightHandThumb3
+      position: {x: 0.0032948183, y: 0.025094327, z: -8.215544e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftShoulder
+      parentName: sleepingBaby_v001:mixamorig:Spine2
+      position: {x: -0.04796153, y: 0.12126596, z: -0.0010361742}
+      rotation: {x: 0.5611706, y: -0.4266296, z: 0.5737645, w: 0.41697627}
+      scale: {x: 1.0000017, y: 1.0000015, z: 1.0000004}
+    - name: sleepingBaby_v001:mixamorig:LeftArm
+      parentName: sleepingBaby_v001:mixamorig:LeftShoulder
+      position: {x: 1.1724126e-10, y: 0.09961939, z: -0.0000000013389342}
+      rotation: {x: -0.117668524, y: -0.0022184101, z: 0.018719492, w: 0.9928741}
+      scale: {x: 0.99999934, y: 0.999998, z: 1.0000014}
+    - name: sleepingBaby_v001:mixamorig:LeftForeArm
+      parentName: sleepingBaby_v001:mixamorig:LeftArm
+      position: {x: 2.4708952e-10, y: 0.1895161, z: -6.068177e-11}
+      rotation: {x: -0.024940714, y: -0.07469938, z: -0.05394491, w: 0.9954335}
+      scale: {x: 0.99999887, y: 1.0000005, z: 0.9999998}
+    - name: sleepingBaby_v001:mixamorig:LeftHand
+      parentName: sleepingBaby_v001:mixamorig:LeftForeArm
+      position: {x: 0.000000002139879, y: 0.19292368, z: -7.601557e-11}
+      rotation: {x: -0.07511542, y: -0.055170592, z: 0.031978782, w: 0.9951338}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999997}
+    - name: sleepingBaby_v001:mixamorig:LeftHandThumb1
+      parentName: sleepingBaby_v001:mixamorig:LeftHand
+      position: {x: 0.026594367, y: 0.03527033, z: 0.008380991}
+      rotation: {x: -0.0011310795, y: 0.009786922, z: -0.35734573, w: 0.9339203}
+      scale: {x: 1.0000007, y: 1, z: 1.000001}
+    - name: sleepingBaby_v001:mixamorig:LeftHandThumb2
+      parentName: sleepingBaby_v001:mixamorig:LeftHandThumb1
+      position: {x: 0.0012347115, y: 0.03594768, z: 3.0627845e-10}
+      rotation: {x: 0.016243743, y: 0.00000010803338, z: 0.00000015459949, w: 0.99986815}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftHandThumb3
+      parentName: sleepingBaby_v001:mixamorig:LeftHandThumb2
+      position: {x: 0.002035565, y: 0.03125562, z: -3.1072686e-10}
+      rotation: {x: -0.013723624, y: 0.0007091972, z: -0.059935324, w: 0.99810773}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999997}
+    - name: sleepingBaby_v001:mixamorig:LeftHandThumb4
+      parentName: sleepingBaby_v001:mixamorig:LeftHandThumb3
+      position: {x: -0.0032702752, y: 0.025640225, z: -5.358913e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftHandPinky1
+      parentName: sleepingBaby_v001:mixamorig:LeftHand
+      position: {x: -0.036115892, y: 0.09483037, z: 0.0040119425}
+      rotation: {x: -0.03687931, y: -0.00029284874, z: 0.007927395, w: 0.99928826}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: sleepingBaby_v001:mixamorig:LeftHandPinky2
+      parentName: sleepingBaby_v001:mixamorig:LeftHandPinky1
+      position: {x: -0.000060320293, y: 0.020673413, z: -2.7825023e-10}
+      rotation: {x: 0.040124077, y: -0.000039725306, z: 0.000673853, w: 0.99919444}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000005}
+    - name: sleepingBaby_v001:mixamorig:LeftHandPinky3
+      parentName: sleepingBaby_v001:mixamorig:LeftHandPinky2
+      position: {x: 0.000005007419, y: 0.020594038, z: -2.4408506e-10}
+      rotation: {x: 0.0404049, y: 0.00004663298, z: 0.00063703174, w: 0.9991832}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: sleepingBaby_v001:mixamorig:LeftHandPinky4
+      parentName: sleepingBaby_v001:mixamorig:LeftHandPinky3
+      position: {x: 0.000055314198, y: 0.014952575, z: 7.843454e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftHandRing1
+      parentName: sleepingBaby_v001:mixamorig:LeftHand
+      position: {x: -0.010171996, y: 0.12274301, z: -0.00027407458}
+      rotation: {x: 0.030931275, y: 0.00040146703, z: 0.012972645, w: 0.99943733}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000005}
+    - name: sleepingBaby_v001:mixamorig:LeftHandRing2
+      parentName: sleepingBaby_v001:mixamorig:LeftHandRing1
+      position: {x: -0.000114814975, y: 0.018283421, z: 3.797737e-10}
+      rotation: {x: 0.03535531, y: -0.00000001987791, z: 0.00000008813911, w: 0.9993748}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: sleepingBaby_v001:mixamorig:LeftHandRing3
+      parentName: sleepingBaby_v001:mixamorig:LeftHandRing2
+      position: {x: 0.00004225196, y: 0.01770329, z: -7.8248234e-11}
+      rotation: {x: 0.04055758, y: -0.00000013876827, z: 0.00000007682549, w: 0.9991773}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000005}
+    - name: sleepingBaby_v001:mixamorig:LeftHandRing4
+      parentName: sleepingBaby_v001:mixamorig:LeftHandRing3
+      position: {x: 0.00007256511, y: 0.012808834, z: -3.655984e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftHandIndex1
+      parentName: sleepingBaby_v001:mixamorig:LeftHand
+      position: {x: 0.038070086, y: 0.100364245, z: 0.0034988998}
+      rotation: {x: 0.0015427541, y: -0.00009471921, z: -0.061125524, w: 0.9981289}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000002}
+    - name: sleepingBaby_v001:mixamorig:LeftHandIndex2
+      parentName: sleepingBaby_v001:mixamorig:LeftHandIndex1
+      position: {x: 0.0000616128, y: 0.025071556, z: 2.8370691e-11}
+      rotation: {x: 0.032661185, y: 0.00000018524588, z: 0.00000017848197, w: 0.99946654}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000005}
+    - name: sleepingBaby_v001:mixamorig:LeftHandIndex3
+      parentName: sleepingBaby_v001:mixamorig:LeftHandIndex2
+      position: {x: 0.0000064701962, y: 0.023473147, z: -1.4444168e-10}
+      rotation: {x: 0.037975263, y: -0.00012772306, z: -0.0013110801, w: 0.9992778}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: sleepingBaby_v001:mixamorig:LeftHandIndex4
+      parentName: sleepingBaby_v001:mixamorig:LeftHandIndex3
+      position: {x: -0.000068083486, y: 0.01854072, z: 2.5596292e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+      parentName: sleepingBaby_v001:mixamorig:LeftHand
+      position: {x: 0.008217788, y: 0.12298172, z: -0.00210932}
+      rotation: {x: -0.030510146, y: 0.00087079004, z: -0.028523717, w: 0.999127}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+      parentName: sleepingBaby_v001:mixamorig:LeftHandMiddle1
+      position: {x: 0.00009526446, y: 0.01896206, z: -2.3903083e-11}
+      rotation: {x: 0.039519805, y: 0.000067258115, z: -0.0017525364, w: 0.9992172}
+      scale: {x: 0.99999976, y: 0.99999946, z: 0.99999976}
+    - name: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+      parentName: sleepingBaby_v001:mixamorig:LeftHandMiddle2
+      position: {x: -0.000036224603, y: 0.019960908, z: -5.689273e-11}
+      rotation: {x: 0.04118887, y: -0.000021554531, z: -0.00016401915, w: 0.99915147}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000006}
+    - name: sleepingBaby_v001:mixamorig:LeftHandMiddle4
+      parentName: sleepingBaby_v001:mixamorig:LeftHandMiddle3
+      position: {x: -0.000059037076, y: 0.014807712, z: -1.7735998e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: sleepingBaby_v001:mixamorig:Neck
+      parentName: sleepingBaby_v001:mixamorig:Spine2
+      position: {x: -0, y: 0.13515744, z: -0.00000012396217}
+      rotation: {x: 0.04155872, y: -0.0000000048481246, z: -0.000000023504848, w: 0.9991361}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: sleepingBaby_v001:mixamorig:Head
+      parentName: sleepingBaby_v001:mixamorig:Neck
+      position: {x: -0, y: 0.0692337, z: 0.0076608276}
+      rotation: {x: -0, y: -0, z: 3.6082243e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000012}
+    - name: sleepingBaby_v001:mixamorig:HeadTop_End
+      parentName: sleepingBaby_v001:mixamorig:Head
+      position: {x: -0, y: 0.30549955, z: 0.033804167}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

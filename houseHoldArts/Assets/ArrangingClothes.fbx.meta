@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 892ace5573eb50542bf3fd3b000e7f57
+timeCreated: 1517673288
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: //RootNode
+    100004: chest
+    100006: closet1:group1
+    100008: closet1:group_1
+    100010: closet1:hanger_1
+    100012: closet1:hanger_2
+    100014: closet1:hanger_3
+    100016: closet1:hanger_4
+    100018: closet1:ID35
+    100020: closet1:ID35 1
+    100022: closet1:ID35 2
+    100024: closet1:ID35 3
+    100026: closet1:ID43
+    100028: closet1:ID43 1
+    100030: closet1:ID43 2
+    100032: closet1:ID43 3
+    100034: closet1:ID51
+    100036: closet1:ID51 1
+    100038: closet1:ID51 2
+    100040: closet1:ID51 3
+    100042: closet1:ID59
+    100044: closet1:ID59 1
+    100046: closet1:ID59 2
+    100048: closet1:ID59 3
+    100050: closet1:ID72
+    100052: closet1:ID72 1
+    100054: closet1:ID72 2
+    100056: closet1:ID72 3
+    100058: closet1:ID85
+    100060: closet1:ID85 1
+    100062: closet1:ID85 2
+    100064: closet1:ID85 3
+    100066: closet1:ID95
+    100068: closet1:ID95 1
+    100070: closet1:ID95 2
+    100072: closet1:ID95 3
+    100074: closet1:joint1
+    100076: closet1:joint2
+    100078: closet1:joint3
+    100080: closet1:joint4
+    100082: closet1:joint5
+    100084: closet1:joint6
+    100086: head
+    100088: hip
+    100090: l_Collar
+    100092: l_finger_1
+    100094: l_finger_1_1
+    100096: l_finger_2
+    100098: l_finger_2_1
+    100100: l_finger_3
+    100102: l_finger_3_1
+    100104: l_finger_4
+    100106: l_finger_4_1
+    100108: l_finger_5
+    100110: l_finger_5_1
+    100112: l_Foot
+    100114: l_ForeArm
+    100116: l_Hand
+    100118: l_Shin
+    100120: l_Shldr
+    100122: l_Thigh
+    100124: neck
+    100126: r_Collar
+    100128: r_finger_1
+    100130: r_finger_1_1
+    100132: r_finger_2
+    100134: r_finger_2_1
+    100136: r_finger_3
+    100138: r_finger_3_1
+    100140: r_finger_4
+    100142: r_finger_4_1
+    100144: r_finger_5
+    100146: r_finger_5_1
+    100148: r_Foot
+    100150: r_ForeArm
+    100152: r_Hand
+    100154: r_Shin
+    100156: r_Shldr
+    100158: r_Thigh
+    100160: Root
+    100162: Ziv_noApron:ZBrushPolyMesh3D1
+    400000: abdomen
+    400002: //RootNode
+    400004: chest
+    400006: closet1:group1
+    400008: closet1:group_1
+    400010: closet1:hanger_1
+    400012: closet1:hanger_2
+    400014: closet1:hanger_3
+    400016: closet1:hanger_4
+    400018: closet1:ID35
+    400020: closet1:ID35 1
+    400022: closet1:ID35 2
+    400024: closet1:ID35 3
+    400026: closet1:ID43
+    400028: closet1:ID43 1
+    400030: closet1:ID43 2
+    400032: closet1:ID43 3
+    400034: closet1:ID51
+    400036: closet1:ID51 1
+    400038: closet1:ID51 2
+    400040: closet1:ID51 3
+    400042: closet1:ID59
+    400044: closet1:ID59 1
+    400046: closet1:ID59 2
+    400048: closet1:ID59 3
+    400050: closet1:ID72
+    400052: closet1:ID72 1
+    400054: closet1:ID72 2
+    400056: closet1:ID72 3
+    400058: closet1:ID85
+    400060: closet1:ID85 1
+    400062: closet1:ID85 2
+    400064: closet1:ID85 3
+    400066: closet1:ID95
+    400068: closet1:ID95 1
+    400070: closet1:ID95 2
+    400072: closet1:ID95 3
+    400074: closet1:joint1
+    400076: closet1:joint2
+    400078: closet1:joint3
+    400080: closet1:joint4
+    400082: closet1:joint5
+    400084: closet1:joint6
+    400086: head
+    400088: hip
+    400090: l_Collar
+    400092: l_finger_1
+    400094: l_finger_1_1
+    400096: l_finger_2
+    400098: l_finger_2_1
+    400100: l_finger_3
+    400102: l_finger_3_1
+    400104: l_finger_4
+    400106: l_finger_4_1
+    400108: l_finger_5
+    400110: l_finger_5_1
+    400112: l_Foot
+    400114: l_ForeArm
+    400116: l_Hand
+    400118: l_Shin
+    400120: l_Shldr
+    400122: l_Thigh
+    400124: neck
+    400126: r_Collar
+    400128: r_finger_1
+    400130: r_finger_1_1
+    400132: r_finger_2
+    400134: r_finger_2_1
+    400136: r_finger_3
+    400138: r_finger_3_1
+    400140: r_finger_4
+    400142: r_finger_4_1
+    400144: r_finger_5
+    400146: r_finger_5_1
+    400148: r_Foot
+    400150: r_ForeArm
+    400152: r_Hand
+    400154: r_Shin
+    400156: r_Shldr
+    400158: r_Thigh
+    400160: Root
+    400162: Ziv_noApron:ZBrushPolyMesh3D1
+    4300000: Ziv_noApron:ZBrushPolyMesh3D1
+    4300002: closet1:group_1
+    4300004: closet1:hanger_1
+    4300006: closet1:ID35
+    4300008: closet1:ID43
+    4300010: closet1:ID51
+    4300012: closet1:ID59
+    4300014: closet1:ID72
+    4300016: closet1:ID85
+    4300018: closet1:hanger_2
+    4300020: closet1:ID35
+    4300022: closet1:ID43
+    4300024: closet1:ID51
+    4300026: closet1:ID59
+    4300028: closet1:ID72
+    4300030: closet1:ID85
+    4300032: closet1:hanger_3
+    4300034: closet1:ID35
+    4300036: closet1:ID43
+    4300038: closet1:ID51
+    4300040: closet1:ID59
+    4300042: closet1:ID72
+    4300044: closet1:ID85
+    4300046: closet1:hanger_4
+    4300048: closet1:ID35
+    4300050: closet1:ID43
+    4300052: closet1:ID51
+    4300054: closet1:ID59
+    4300056: closet1:ID72
+    4300058: closet1:ID85
+    7400000: test01
+    9500000: //RootNode
+    13700000: closet1:group_1
+    13700002: closet1:hanger_1
+    13700004: closet1:hanger_2
+    13700006: closet1:hanger_3
+    13700008: closet1:hanger_4
+    13700010: closet1:ID35
+    13700012: closet1:ID35 1
+    13700014: closet1:ID35 2
+    13700016: closet1:ID35 3
+    13700018: closet1:ID43
+    13700020: closet1:ID43 1
+    13700022: closet1:ID43 2
+    13700024: closet1:ID43 3
+    13700026: closet1:ID51
+    13700028: closet1:ID51 1
+    13700030: closet1:ID51 2
+    13700032: closet1:ID51 3
+    13700034: closet1:ID59
+    13700036: closet1:ID59 1
+    13700038: closet1:ID59 2
+    13700040: closet1:ID59 3
+    13700042: closet1:ID72
+    13700044: closet1:ID72 1
+    13700046: closet1:ID72 2
+    13700048: closet1:ID72 3
+    13700050: closet1:ID85
+    13700052: closet1:ID85 1
+    13700054: closet1:ID85 2
+    13700056: closet1:ID85 3
+    13700058: Ziv_noApron:ZBrushPolyMesh3D1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ziv_noApron_initialShadingGroup2
+    second: {fileID: 2100000, guid: 56a2e638afed77d43aafb9dd367f09e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closet1_aluminum_hook
+    second: {fileID: 2100000, guid: 6b296e02706545e4b9748a7c8cfe1c2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closet1_closet_rod
+    second: {fileID: 2100000, guid: 8ae620b2a58beaf40aa848dec55ff227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closet1_hanger_arms
+    second: {fileID: 2100000, guid: 9465826c9e72e1944869a0a15226b23d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closet1_material
+    second: {fileID: 2100000, guid: d643067496f6bcd4e933573e5cda54ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closet1_wooden_bar
+    second: {fileID: 2100000, guid: 7c2f4a1046ae4624cb4a5e1ef036f357, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: test01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: closet1:group1
+        weight: 1
+      - path: closet1:group1/closet1:group_1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID35
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID43
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID51
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID59
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID72
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID85
+        weight: 1
+      - path: closet1:group1/closet1:hanger_1/closet1:ID95
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID35 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID43 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID51 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID59 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID72 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID85 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_2/closet1:ID95 1
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID35 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID43 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID51 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID59 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID72 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID85 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_3/closet1:ID95 2
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID35 3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID43 3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID51 3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID59 3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID72 3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID85 3
+        weight: 1
+      - path: closet1:group1/closet1:hanger_4/closet1:ID95 3
+        weight: 1
+      - path: closet1:joint1
+        weight: 1
+      - path: closet1:joint1/closet1:joint2
+        weight: 1
+      - path: closet1:joint1/closet1:joint2/closet1:joint3
+        weight: 1
+      - path: closet1:joint1/closet1:joint2/closet1:joint4
+        weight: 1
+      - path: closet1:joint1/closet1:joint2/closet1:joint5
+        weight: 1
+      - path: closet1:joint1/closet1:joint2/closet1:joint6
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/hip
+        weight: 1
+      - path: Root/hip/abdomen
+        weight: 1
+      - path: Root/hip/abdomen/chest
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_1/l_finger_1_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_2
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_2/l_finger_2_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_3
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_3/l_finger_3_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_4
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_4/l_finger_4_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_5
+        weight: 1
+      - path: Root/hip/abdomen/chest/l_Collar/l_Shldr/l_ForeArm/l_Hand/l_finger_5/l_finger_5_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/neck
+        weight: 1
+      - path: Root/hip/abdomen/chest/neck/head
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_1/r_finger_1_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_2
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_2/r_finger_2_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_3
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_3/r_finger_3_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_4
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_4/r_finger_4_1
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_5
+        weight: 1
+      - path: Root/hip/abdomen/chest/r_Collar/r_Shldr/r_ForeArm/r_Hand/r_finger_5/r_finger_5_1
+        weight: 1
+      - path: Root/hip/l_Thigh
+        weight: 1
+      - path: Root/hip/l_Thigh/l_Shin
+        weight: 1
+      - path: Root/hip/l_Thigh/l_Shin/l_Foot
+        weight: 1
+      - path: Root/hip/r_Thigh
+        weight: 1
+      - path: Root/hip/r_Thigh/r_Shin
+        weight: 1
+      - path: Root/hip/r_Thigh/r_Shin/r_Foot
+        weight: 1
+      - path: Ziv_noApron:ZBrushPolyMesh3D1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
